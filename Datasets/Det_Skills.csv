@@ -1,0 +1,1272 @@
+,Details_ID,Skills
+0,Det_1,Adobe Experience Manager (AEM)
+1,Det_2,Java
+1,Det_2,Data Structures
+1,Det_2,Python
+1,Det_2,Golang
+1,Det_2,Algorithms
+2,Det_3,Informatica
+2,Det_3,Informatica PowerCenter
+3,Det_4,Salesforce
+3,Det_4,Apex
+3,Det_4,Lightning
+3,Det_4,Visualforce
+4,Det_5,Business Development
+4,Det_5,Channel Sales
+4,Det_5,Direct Sales
+4,Det_5,Sales
+5,Det_6,Python
+5,Det_6,Machine Learning
+5,Det_6,SQL
+5,Det_6,AWS
+5,Det_6,Java
+6,Det_7,Python
+6,Det_7,AWS
+6,Det_7,SQL
+7,Det_8,Node.js
+8,Det_9,Business Analysis
+8,Det_9,Documentation
+8,Det_9,Microsoft Excel
+8,Det_9,Power BI
+8,Det_9,R
+8,Det_9,SQL
+8,Det_9,Tableau
+9,Det_10,Java
+9,Det_10,Spring
+9,Det_10,Hibernate
+10,Det_11,Corporate Strategy
+10,Det_11,Customer Relationship
+10,Det_11,Customer Service
+10,Det_11,Key Account Management
+10,Det_11,Retention Management
+10,Det_11,Stakeholder Management
+10,Det_11,Strategic Planning
+11,Det_12,Payment Solutions
+11,Det_12,Product Management
+12,Det_13,Python
+12,Det_13,SQL
+13,Det_14,Java
+13,Det_14,MariaDB
+13,Det_14,Spring Boot
+13,Det_14,J2EE
+13,Det_14,MySQL
+14,Det_15,Sales
+14,Det_15,Business Development
+14,Det_15,Graphic Design
+14,Det_15,2D Animation
+14,Det_15,UX Design
+15,Det_16,Cloud Computing
+15,Det_16,Networking
+15,Det_16,Solution Architecture
+15,Det_16,Virtualization
+15,Det_16,AWS
+15,Det_16,Azure
+15,Det_16,Citrix XenServer
+15,Det_16,Google Cloud
+15,Det_16,Hyper-V
+15,Det_16,OpenStack
+15,Det_16,VMware ESX
+15,Det_16,VMware vSphere
+16,Det_17,Corporate Sales
+16,Det_17,Distribution
+16,Det_17,Lead Generation
+16,Det_17,Sales
+17,Det_18,Simulation
+17,Det_18,Teamcenter
+17,Det_18,Vismockup
+18,Det_19,Machine Learning
+18,Det_19,Python
+18,Det_19,Statistics
+18,Det_19,Computer Vision
+18,Det_19,R
+19,Det_20,Accounting
+19,Det_20,Auditing
+19,Det_20,Finance
+19,Det_20,GST
+19,Det_20,Income Tax
+19,Det_20,MIS
+19,Det_20,Sales Tax
+19,Det_20,TDS
+19,Det_20,Taxation
+20,Det_21,Control-M
+20,Det_21,Unix
+20,Det_21,Mainframes
+21,Det_22,C
+21,Det_22,C++
+21,Det_22,Networking
+22,Det_23,Business Development
+22,Det_23,Channel Sales
+22,Det_23,Direct Sales
+22,Det_23,Key Account Management
+22,Det_23,Sales
+23,Det_24,Java
+23,Det_24,MQL
+23,Det_24,ENOVIA
+23,Det_24,TCL
+23,Det_24,SQL
+24,Det_25,AWS
+24,Det_25,Terraform
+24,Det_25,Jenkins
+24,Det_25,Ansible
+24,Det_25,Helm
+25,Det_26,CSS
+25,Det_26,HTML
+25,Det_26,JavaScript
+25,Det_26,React.js
+26,Det_27,Apache Beam
+26,Det_27,Java
+26,Det_27,JavaScript
+26,Det_27,Linux
+26,Det_27,NoSQL
+26,Det_27,React.js
+26,Det_27,Spring
+26,Det_27,Spring Boot
+26,Det_27,Tomcat
+26,Det_27,jQuery
+27,Det_28,CRM
+27,Det_28,Corporate Sales
+27,Det_28,HLOOKUP
+27,Det_28,Jira
+27,Det_28,Key Account Management
+27,Det_28,Sales
+28,Det_29,Project Management
+28,Det_29,Payment Solutions
+28,Det_29,Information Security
+28,Det_29,Banking Operations
+29,Det_30,.NET
+29,Det_30,Algorithms
+29,Det_30,Architecture
+29,Det_30,Data Structures
+29,Det_30,HTTP
+29,Det_30,Java
+29,Det_30,Node.js
+29,Det_30,Spring Boot
+30,Det_31,Angular
+30,Det_31,JavaScript
+30,Det_31,Git
+30,Det_31,HTML
+30,Det_31,CSS
+31,Det_32,IT Recruitment
+31,Det_32,Non IT Recruitment
+31,Det_32,Recruitment
+32,Det_33,Corporate Sales
+32,Det_33,International Sales
+32,Det_33,Key Account Management
+32,Det_33,LinkedIn Sales Navigator
+33,Det_34,JavaScript
+33,Det_34,React Native
+33,Det_34,React.js
+34,Det_35,iOS
+34,Det_35,Objective-C
+34,Det_35,Architecture
+34,Det_35,Swift
+34,Det_35,MVP
+35,Det_36,Product Management
+36,Det_37,Java
+36,Det_37,Spring
+37,Det_38,React Native
+37,Det_38,React.js
+37,Det_38,JavaScript
+37,Det_38,HTML
+37,Det_38,CSS
+38,Det_39,JavaScript
+38,Det_39,Angular
+38,Det_39,React.js
+38,Det_39,UX Design
+39,Det_40,CSS
+39,Det_40,HTML
+39,Det_40,JavaScript
+39,Det_40,React.js
+40,Det_41,Java
+40,Det_41,Spring Boot
+40,Det_41,SOAP
+40,Det_41,REST Assured
+40,Det_41,Payment Solutions
+41,Det_42,Product Management
+41,Det_42,Fraud Management
+41,Det_42,Agile
+41,Det_42,Order Fulfillment
+41,Det_42,Loyalty Programs
+42,Det_43,Angular
+42,Det_43,HTML
+42,Det_43,CSS
+42,Det_43,JavaScript
+43,Det_44,Product Management
+44,Det_45,Manual Testing
+44,Det_45,Automation Testing
+44,Det_45,Performance Testing
+44,Det_45,Quality Assurance
+44,Det_45,SDET
+45,Det_46,General Management
+45,Det_46,Strategic Planning
+45,Det_46,Operations Management
+45,Det_46,Program Management
+46,Det_47,Manual Testing
+46,Det_47,Selenium
+46,Det_47,Mobile Apps Testing
+46,Det_47,Java
+46,Det_47,Agile
+47,Det_48,Business Development
+47,Det_48,Channel Sales
+47,Det_48,Corporate Banking
+47,Det_48,Corporate Loans
+47,Det_48,Corporate Sales
+47,Det_48,Corporate Strategy
+47,Det_48,Key Account Management
+47,Det_48,Marketing
+47,Det_48,Microsoft Office
+47,Det_48,Partnerships
+47,Det_48,Product Marketing
+47,Det_48,Retail Banking
+47,Det_48,Retail Loans
+47,Det_48,Retail Marketing
+47,Det_48,Sales
+47,Det_48,Stakeholder Management
+47,Det_48,Strategic Planning
+48,Det_49,Google Ads
+48,Det_49,SEM
+48,Det_49,SEO
+49,Det_50,Business Development
+49,Det_50,Corporate Sales
+49,Det_50,Key Account Management
+49,Det_50,Sales
+50,Det_51,Investment Advisory
+50,Det_51,Mutual Funds
+50,Det_51,HNI
+50,Det_51,Insurance Broking
+50,Det_51,Fund Management
+51,Det_52,React Native
+51,Det_52,Flutter
+51,Det_52,React.js
+52,Det_53,Sales
+52,Det_53,Sales Enablement
+53,Det_54,Machine Learning
+53,Det_54,NLP
+53,Det_54,Python
+53,Det_54,Data Analysis
+53,Det_54,SQL
+54,Det_55,C#
+54,Det_55,C++
+54,Det_55,Golang
+54,Det_55,Java
+54,Det_55,JavaScript
+54,Det_55,Linux
+54,Det_55,Python
+54,Det_55,Unix
+55,Det_56,.NET
+55,Det_56,LINQ
+55,Det_56,Git
+56,Det_57,Oracle RAC
+56,Det_57,PL-SQL
+57,Det_58,Accounting
+57,Det_58,CPA
+57,Det_58,ERPS
+57,Det_58,Finance
+57,Det_58,Financial Reporting
+57,Det_58,NetSuite
+57,Det_58,Payroll Management
+58,Det_59,Mapping
+58,Det_59,NBFC
+58,Det_59,Product Lifecycle Management
+58,Det_59,Product Management
+59,Det_60,Sales
+59,Det_60,Direct Sales
+59,Det_60,Customer Relationship
+59,Det_60,Customer Service
+59,Det_60,Corporate Sales
+60,Det_61,Java
+60,Det_61,Node.js
+60,Det_61,Python
+60,Det_61,Data Structures
+60,Det_61,Algorithms
+61,Det_62,Java
+61,Det_62,React.js
+61,Det_62,Spring
+61,Det_62,Agile
+61,Det_62,Data Structures
+62,Det_63,CSS
+62,Det_63,HTML
+62,Det_63,JavaScript
+62,Det_63,Angular
+62,Det_63,Backbone.js
+62,Det_63,Ember.js
+62,Det_63,jQuery
+62,Det_63,React.js
+62,Det_63,Vue.js
+63,Det_64,Java
+63,Det_64,Angular
+63,Det_64,Hibernate
+63,Det_64,TypeScript
+63,Det_64,JavaScript
+64,Det_65,Hyperion Planning
+65,Det_66,JavaScript
+65,Det_66,Architecture
+65,Det_66,Angular
+65,Det_66,AWS
+65,Det_66,Azure
+66,Det_67,SEO
+66,Det_67,Link Building
+66,Det_67,Google Search Console
+67,Det_68,Manual Testing
+67,Det_68,Automation Testing
+67,Det_68,Mobile Apps Testing
+67,Det_68,Flutter
+67,Det_68,Selenium
+68,Det_69,Database Administration
+68,Det_69,Database Development
+68,Det_69,Distributed Systems
+68,Det_69,jQuery
+69,Det_70,Business Development
+69,Det_70,Lead Generation
+69,Det_70,Sales
+70,Det_71,C++
+70,Det_71,InDesign
+71,Det_72,Sales
+71,Det_72,Business Development
+71,Det_72,Direct Sales
+71,Det_72,Corporate Sales
+71,Det_72,International Sales
+72,Det_73,JavaScript
+72,Det_73,Playwright
+72,Det_73,Automation Testing
+72,Det_73,Python
+73,Det_74,Java
+73,Det_74,React.js
+73,Det_74,AWS
+73,Det_74,Spring Boot
+73,Det_74,Microservices
+74,Det_75,2D Animation
+74,Det_75,3D Animation
+74,Det_75,Graphic Design
+74,Det_75,Corel Draw
+74,Det_75,Illustrator
+74,Det_75,InDesign
+74,Det_75,Photoshop
+75,Det_76,Golang
+75,Det_76,Java
+75,Det_76,Python
+75,Det_76,Ruby
+75,Det_76,Hibernate
+75,Det_76,Ruby on Rails
+76,Det_77,React.js
+76,Det_77,JavaScript
+76,Det_77,HTML
+76,Det_77,CSS
+76,Det_77,TypeScript
+77,Det_78,Product Management
+77,Det_78,Product Lifecycle Management
+77,Det_78,Finacle
+77,Det_78,Payment Solutions
+77,Det_78,Credit Evaluation
+78,Det_79,Finance
+78,Det_79,GTM
+78,Det_79,Marketing
+78,Det_79,Product Management
+78,Det_79,Sales
+78,Det_79,UX Design
+79,Det_80,JavaScript
+79,Det_80,React.js
+79,Det_80,Node.js
+79,Det_80,Angular
+80,Det_81,Auditing
+80,Det_81,Risk Assessment
+80,Det_81,Vendor Management
+81,Det_82,Angular
+81,Det_82,ASP.NET
+81,Det_82,.NET
+81,Det_82,HTML
+81,Det_82,CSS
+82,Det_83,JavaScript
+82,Det_83,React.js
+82,Det_83,HTML
+82,Det_83,CSS
+82,Det_83,TypeScript
+83,Det_84,PHP
+83,Det_84,Wordpress
+83,Det_84,HTML
+83,Det_84,jQuery
+83,Det_84,Jira
+84,Det_85,.NET
+84,Det_85,SQL Server
+84,Det_85,jQuery
+84,Det_85,C#
+84,Det_85,Agile
+85,Det_86,ServiceNow
+85,Det_86,ITSM
+86,Det_87,PKI
+87,Det_88,Product Management
+88,Det_89,Python
+88,Det_89,AWS
+88,Det_89,Maven
+88,Det_89,Docker
+88,Det_89,Spring Boot
+89,Det_90,Node.js
+89,Det_90,Python
+90,Det_91,React.js
+90,Det_91,Node.js
+90,Det_91,Angular
+90,Det_91,Python
+90,Det_91,SQL
+91,Det_92,DevOps
+91,Det_92,Python
+92,Det_93,.NET
+92,Det_93,Angular
+92,Det_93,React.js
+92,Det_93,ASP.NET
+92,Det_93,C#
+93,Det_94,Sales
+93,Det_94,Business Development
+93,Det_94,Direct Sales
+93,Det_94,Customer Interaction
+93,Det_94,Customer Service
+94,Det_95,Consumer Software
+94,Det_95,Product Management
+95,Det_96,Application Security
+95,Det_96,Vulnerability Assessment
+95,Det_96,Network Security
+96,Det_97,Direct Sales
+96,Det_97,Sales
+96,Det_97,Branch Management
+96,Det_97,Field Work
+97,Det_98,iOS
+97,Det_98,Objective-C
+97,Det_98,Swift
+97,Det_98,Cocoa
+98,Det_99,JavaScript
+98,Det_99,React.js
+99,Det_100,Django
+99,Det_100,Flask
+99,Det_100,Python
+100,Det_101,C++
+100,Det_101,GUI
+100,Det_101,Qt
+100,Det_101,QML
+101,Det_102,Brand Management
+101,Det_102,Content Marketing
+101,Det_102,Facebook Marketing
+101,Det_102,KPI
+101,Det_102,LinkedIn Marketing
+101,Det_102,Social Media Marketing
+102,Det_103,UX Design
+102,Det_103,JavaScript
+102,Det_103,React.js
+102,Det_103,Progressive Web Apps
+102,Det_103,HTML
+103,Det_104,Product Management
+103,Det_104,Credit Management
+104,Det_105,Java
+104,Det_105,Python
+104,Det_105,Node.js
+104,Det_105,Kotlin
+105,Det_106,Algorithms
+105,Det_106,C
+105,Det_106,C++
+105,Det_106,Computer Vision
+105,Det_106,Data Structures
+105,Det_106,Devicenet
+105,Det_106,Hardware
+105,Det_106,Image Processing
+105,Det_106,Industrial Automation
+105,Det_106,Microarrays
+105,Det_106,Modbus
+105,Det_106,Python
+105,Det_106,RS232
+105,Det_106,Visual Studio
+106,Det_107,Angular
+106,Det_107,Java
+106,Det_107,Spring Boot
+106,Det_107,SQL
+106,Det_107,Spring
+107,Det_108,Java
+107,Det_108,AWS
+107,Det_108,Spring Boot
+107,Det_108,Data Structures
+107,Det_108,Algorithms
+108,Det_109,Machine Learning
+108,Det_109,Google Cloud
+108,Det_109,BigQuery
+108,Det_109,Python
+108,Det_109,MLOps
+109,Det_110,React Native
+109,Det_110,JavaScript
+109,Det_110,React.js
+109,Det_110,Android
+109,Det_110,iOS
+110,Det_111,Sales
+110,Det_111,Business Development
+111,Det_112,Distributed Systems
+111,Det_112,Program Management
+111,Det_112,Project Management
+112,Det_113,Java
+112,Det_113,Spring Boot
+112,Det_113,Microservices
+112,Det_113,React.js
+112,Det_113,Multithreading
+113,Det_114,SQL
+113,Det_114,Data Analysis
+113,Det_114,Python
+113,Det_114,Tableau
+113,Det_114,Statistics
+114,Det_115,Oracle HCM
+114,Det_115,Technical Consulting
+114,Det_115,Functional Consulting
+114,Det_115,Payroll Management
+114,Det_115,HR Operations
+115,Det_116,IT Support
+115,Det_116,LAN
+115,Det_116,DHCP
+115,Det_116,Active Directory
+116,Det_117,Business Development
+116,Det_117,Channel Sales
+116,Det_117,Corporate Sales
+116,Det_117,Direct Sales
+116,Det_117,International Sales
+116,Det_117,Sales
+117,Det_118,Big Data
+117,Det_118,Cloud Computing
+117,Det_118,Cloud Security
+117,Det_118,Enterprise Software
+117,Det_118,GTM
+117,Det_118,Google Cloud
+117,Det_118,Machine Learning
+117,Det_118,Product Management
+117,Det_118,Supply Chain Management
+117,Det_118,UX Design
+118,Det_119,Flutter
+119,Det_120,C#
+119,Det_120,C++
+119,Det_120,Java
+119,Det_120,Linux
+119,Det_120,Oracle Access Manager
+119,Det_120,Oracle Database
+119,Det_120,PostgreSQL
+119,Det_120,PowerShell
+119,Det_120,Python
+119,Det_120,Shell Scripting
+119,Det_120,Windows
+120,Det_121,SAP HANA
+121,Det_122,Node.js
+121,Det_122,React.js
+121,Det_122,JavaScript
+122,Det_123,Python
+122,Det_123,Hive
+122,Det_123,Spark
+122,Det_123,ETL
+122,Det_123,Spark SQL
+123,Det_124,AWS
+123,Det_124,MySQL
+123,Det_124,API Testing
+123,Det_124,MongoDB
+123,Det_124,Spring Boot
+124,Det_125,Customer Service
+124,Det_125,Desktop Troubleshooting
+124,Det_125,L2 Support
+125,Det_126,Vue.js
+125,Det_126,JavaScript
+125,Det_126,HTML
+125,Det_126,CSS
+126,Det_127,SEO
+126,Det_127,SEM
+126,Det_127,SEMrush
+126,Det_127,Jira
+126,Det_127,Social Media Marketing
+127,Det_128,Digital Marketing
+127,Det_128,Google Ads
+127,Det_128,Content Writing
+128,Det_129,Python
+128,Det_129,Big Data
+128,Det_129,SQL
+128,Det_129,Snowflake
+128,Det_129,Airflow
+129,Det_130,Angular
+129,Det_130,Java
+129,Det_130,Spring Boot
+129,Det_130,Microservices
+129,Det_130,SQL
+130,Det_131,Playwright
+130,Det_131,Automation Testing
+130,Det_131,Python
+130,Det_131,JavaScript
+130,Det_131,Quality Assurance
+131,Det_132,Java
+131,Det_132,REST Assured
+131,Det_132,SDET
+131,Det_132,Microservices
+131,Det_132,AWS
+132,Det_133,International Sales
+133,Det_134,.NET
+134,Det_135,Hadoop
+134,Det_135,Jenkins
+134,Det_135,Kafka
+134,Det_135,Spark
+134,Det_135,Unix
+135,Det_136,Machine Learning
+135,Det_136,Python
+135,Det_136,NLP
+135,Det_136,Statistics
+135,Det_136,Data Mining
+136,Det_137,Sales
+136,Det_137,Business Development
+136,Det_137,Customer Relationship
+136,Det_137,Corporate Sales
+136,Det_137,Direct Sales
+137,Det_138,Cloud Computing
+137,Det_138,Hadoop
+137,Det_138,Hive
+137,Det_138,Java
+137,Det_138,Jupyter
+137,Det_138,Spark
+138,Det_139,Credit Cards
+138,Det_139,Product Management
+139,Det_140,Business Development
+139,Det_140,Counselling
+139,Det_140,Education Counselling
+139,Det_140,International Sales
+139,Det_140,Sales
+140,Det_141,React.js
+140,Det_141,Spring Boot
+140,Det_141,Microservices
+140,Det_141,Java
+140,Det_141,SQL
+141,Det_142,Visual Design
+141,Det_142,Graphic Design
+141,Det_142,UX Design
+141,Det_142,2D Animation
+141,Det_142,Game Design
+142,Det_143,API Testing
+142,Det_143,Appium
+142,Det_143,Cucumber
+142,Det_143,JMeter
+142,Det_143,Java
+142,Det_143,Mobile Apps Testing
+142,Det_143,Performance Testing
+142,Det_143,Python
+142,Det_143,Ruby
+142,Det_143,SDET
+142,Det_143,Selenium
+142,Det_143,SoapUI
+143,Det_144,Angular
+143,Det_144,Java
+143,Det_144,JavaScript
+143,Det_144,Node.js
+143,Det_144,React.js
+143,Det_144,Spring
+143,Det_144,jQuery
+144,Det_145,Python
+144,Det_145,SQL
+145,Det_146,SQL
+145,Det_146,Google Analytics
+145,Det_146,Looker
+145,Det_146,ETL
+145,Det_146,Power BI
+146,Det_147,Business Development
+146,Det_147,Channel Sales
+146,Det_147,Corporate Sales
+146,Det_147,Direct Sales
+146,Det_147,Sales
+147,Det_148,React Native
+147,Det_148,React.js
+147,Det_148,JavaScript
+147,Det_148,Android
+147,Det_148,iOS
+148,Det_149,C#
+148,Det_149,C++
+148,Det_149,Jira
+148,Det_149,Agile
+148,Det_149,.NET
+149,Det_150,Java
+149,Det_150,Architecture
+149,Det_150,SOAP
+149,Det_150,UML
+149,Det_150,Spring Boot
+150,Det_151,Python
+150,Det_151,SQL
+150,Det_151,Tableau
+151,Det_152,JavaScript
+151,Det_152,Ruby
+151,Det_152,Angular
+151,Det_152,React.js
+152,Det_153,Databricks
+152,Det_153,Hadoop
+152,Det_153,Spark
+152,Det_153,ETL
+152,Det_153,PySpark
+152,Det_153,Snowflake
+153,Det_154,Java
+153,Det_154,Python
+153,Det_154,Golang
+153,Det_154,AWS
+154,Det_155,Java
+154,Det_155,Spring Boot
+154,Det_155,AWS
+154,Det_155,Microservices
+154,Det_155,Kafka
+155,Det_156,Warehouse Operations
+155,Det_156,Inventory Management
+155,Det_156,Retail Operations
+156,Det_157,Business Development
+156,Det_157,Corporate Sales
+156,Det_157,International Sales
+156,Det_157,Key Account Management
+156,Det_157,LinkedIn Sales Navigator
+156,Det_157,Telecalling
+157,Det_158,.NET
+157,Det_158,ASP.NET
+157,Det_158,C#
+157,Det_158,SQL Server
+158,Det_159,Product Management
+158,Det_159,Customer Service
+159,Det_160,Channel Sales
+159,Det_160,Corporate Sales
+159,Det_160,Direct Sales
+159,Det_160,Key Account Management
+159,Det_160,Sales
+160,Det_161,CSS
+160,Det_161,HTML
+160,Det_161,JavaScript
+160,Det_161,React.js
+160,Det_161,jQuery
+161,Det_162,Python
+161,Det_162,Node.js
+161,Det_162,CI - CD
+161,Det_162,AWS
+161,Det_162,Azure
+162,Det_163,Automation Testing
+162,Det_163,React.js
+162,Det_163,SDET
+163,Det_164,Category Management
+163,Det_164,Catalog Management
+164,Det_165,Python
+164,Det_165,Data Structures
+164,Det_165,Algorithms
+165,Det_166,Node.js
+165,Det_166,AWS
+165,Det_166,Kafka
+165,Det_166,Python
+165,Det_166,CI - CD
+166,Det_167,Java
+166,Det_167,Kotlin
+166,Det_167,Android
+166,Det_167,MVP
+166,Det_167,Architecture
+167,Det_168,Java
+167,Det_168,Spring Boot
+167,Det_168,Microservices
+167,Det_168,MongoDB
+167,Det_168,AWS
+168,Det_169,Python
+168,Det_169,Data Structures
+168,Det_169,Algorithms
+168,Det_169,SQL
+168,Det_169,React.js
+169,Det_170,.NET
+169,Det_170,Microservices
+169,Det_170,Angular
+169,Det_170,Azure
+169,Det_170,ASP.NET
+170,Det_171,ETL
+170,Det_171,AWS
+170,Det_171,PostgreSQL
+170,Det_171,Python
+170,Det_171,SQL
+171,Det_172,SAP FICO
+171,Det_172,IDOC
+171,Det_172,SAP HANA
+171,Det_172,SAP Fiori
+172,Det_173,Business Development
+172,Det_173,Corporate Sales
+172,Det_173,Key Account Management
+172,Det_173,Lead Generation
+172,Det_173,Telecalling
+173,Det_174,GST
+173,Det_174,TDS
+173,Det_174,Tally
+173,Det_174,Banking Operations
+173,Det_174,Microsoft Excel
+174,Det_175,Finance
+174,Det_175,Marketing
+174,Det_175,Microsoft Excel
+174,Det_175,Product Management
+174,Det_175,Sales
+174,Det_175,UI Testing
+174,Det_175,UX Design
+175,Det_176,.NET
+175,Det_176,ASP.NET
+175,Det_176,Angular
+175,Det_176,Azure
+175,Det_176,Bootstrap
+175,Det_176,C#
+175,Det_176,CSS
+175,Det_176,HTML
+176,Det_177,Automation Testing
+176,Det_177,Manual Testing
+177,Det_178,Python
+177,Det_178,ETL
+177,Det_178,Data Analysis
+178,Det_179,Business Development
+178,Det_179,Channel Sales
+178,Det_179,Profit and Loss Management
+178,Det_179,Strategic Planning
+179,Det_180,Corporate Sales
+179,Det_180,Farming
+179,Det_180,International Sales
+179,Det_180,Key Account Management
+180,Det_181,Ansible
+180,Det_181,Azure
+180,Det_181,Azure DevOps Server
+180,Det_181,CI - CD
+180,Det_181,DevOps
+180,Det_181,Kafka
+181,Det_182,Power BI
+181,Det_182,SQL
+181,Det_182,MSBI
+181,Det_182,SSIS
+181,Det_182,DAX
+182,Det_183,Financial Analysis
+182,Det_183,Financial Reporting
+182,Det_183,Cash Flow Management
+182,Det_183,Accounting
+182,Det_183,Finance
+183,Det_184,Power BI
+184,Det_185,ASP.NET
+184,Det_185,Angular
+184,Det_185,.NET
+184,Det_185,C#
+184,Det_185,Entity Framework
+185,Det_186,Content Marketing
+185,Det_186,Content Writing
+185,Det_186,SEO
+185,Det_186,Social Media Marketing
+186,Det_187,C
+186,Det_187,Networking
+187,Det_188,.NET
+187,Det_188,Angular
+187,Det_188,C#
+187,Det_188,AWS
+187,Det_188,JavaScript
+188,Det_189,CSS
+188,Det_189,HTML
+188,Det_189,JavaScript
+188,Det_189,React.js
+188,Det_189,Vue.js
+189,Det_190,Machine Learning
+189,Det_190,Neural Networks
+189,Det_190,Python
+189,Det_190,Linear Regression
+189,Det_190,Predictive Modelling
+190,Det_191,Java
+190,Det_191,Microservices
+190,Det_191,Spring Boot
+190,Det_191,Architecture
+190,Det_191,AWS
+191,Det_192,Corporate Sales
+191,Det_192,Key Account Management
+191,Det_192,Lead Generation
+191,Det_192,LinkedIn Sales Navigator
+192,Det_193,React.js
+192,Det_193,Angular
+193,Det_194,Sales
+193,Det_194,Travel Planning
+193,Det_194,Telecalling
+193,Det_194,Business Development
+193,Det_194,Travel Management
+194,Det_195,CSS
+194,Det_195,HTML
+194,Det_195,JavaScript
+194,Det_195,Angular
+195,Det_196,Python
+195,Det_196,Machine Learning
+195,Det_196,AWS
+195,Det_196,NLP
+195,Det_196,Data Analysis
+196,Det_197,AWS
+196,Det_197,Git
+196,Det_197,Docker
+196,Det_197,Spring Boot
+196,Det_197,Maven
+197,Det_198,CI - CD
+197,Det_198,Jenkins
+197,Det_198,AWS
+197,Det_198,Python
+197,Det_198,Java
+198,Det_199,Python
+198,Det_199,Django
+198,Det_199,Flask
+199,Det_200,Linux
+199,Det_200,Unix
+199,Det_200,Windows
+199,Det_200,AWS
+199,Det_200,Google Cloud
+200,Det_201,.NET
+200,Det_201,React.js
+201,Det_202,Product Management
+201,Det_202,Project Management
+201,Det_202,Enterprise Software
+201,Det_202,Consumer Software
+201,Det_202,PMP
+202,Det_203,Angular
+202,Det_203,JavaScript
+202,Det_203,HTML
+202,Det_203,Google Cloud
+202,Det_203,CSS
+203,Det_204,Python
+203,Det_204,JavaScript
+203,Det_204,Java
+203,Det_204,React.js
+203,Det_204,Golang
+204,Det_205,PHP
+204,Det_205,Laravel
+204,Det_205,CodeIgniter
+205,Det_206,Product Management
+205,Det_206,Consumer Software
+205,Det_206,Product Lifecycle Management
+205,Det_206,Data Visualization
+206,Det_207,Digital Marketing
+206,Det_207,Social Media Marketing
+206,Det_207,Brand Management
+206,Det_207,SEO
+206,Det_207,Instagram Marketing
+207,Det_208,SQL
+207,Det_208,Java
+207,Det_208,Python
+207,Det_208,C#
+207,Det_208,R
+208,Det_209,Corporate Sales
+208,Det_209,Key Account Management
+208,Det_209,Lead Generation
+208,Det_209,LinkedIn Sales Navigator
+209,Det_210,.NET
+209,Det_210,C#
+209,Det_210,Angular
+209,Det_210,Azure
+210,Det_211,Java
+210,Det_211,Spring
+210,Det_211,Microservices
+210,Det_211,AWS
+210,Det_211,AWS Lambda
+211,Det_212,Business Development
+211,Det_212,Marketing
+211,Det_212,Customer Interaction
+211,Det_212,Sales Operations
+211,Det_212,Microsoft Excel
+212,Det_213,Business Development
+212,Det_213,Direct Sales
+212,Det_213,Sales
+213,Det_214,Angular
+213,Det_214,Node.js
+213,Det_214,MongoDB
+213,Det_214,Express.js
+213,Det_214,SQL Server
+214,Det_215,MongoDB
+214,Det_215,MySQL
+214,Det_215,Oracle Database
+214,Det_215,PostgreSQL
+214,Det_215,SAP HANA
+214,Det_215,SQL Server
+214,Det_215,Oracle Data Guard
+214,Det_215,Oracle Data Pump
+214,Det_215,Oracle GoldenGate
+214,Det_215,Oracle RAC
+215,Det_216,Content Marketing
+215,Det_216,Facebook Marketing
+215,Det_216,Social Media Marketing
+216,Det_217,Python
+216,Det_217,Django
+216,Det_217,Flask
+217,Det_218,Corporate Events
+217,Det_218,Cultural Events
+217,Det_218,Event Management
+217,Det_218,Event Marketing
+217,Det_218,Event Planning
+218,Det_219,Performance Marketing
+218,Det_219,SEM
+218,Det_219,SEO
+218,Det_219,Social Media Marketing
+219,Det_220,Digital Marketing
+219,Det_220,Social Media Marketing
+219,Det_220,Content Marketing
+219,Det_220,Marketing
+220,Det_221,Field Work
+220,Det_221,Lead Generation
+220,Det_221,Sales
+221,Det_222,AWS
+221,Det_222,CI - CD
+221,Det_222,Cloud Computing
+221,Det_222,DevOps
+221,Det_222,Linux
+222,Det_223,JavaScript
+222,Det_223,Python
+222,Det_223,Angular
+222,Det_223,Node.js
+222,Det_223,React.js
+223,Det_224,Kubernetes
+224,Det_225,Product Management
+224,Det_225,Project Management
+224,Det_225,Google Analytics
+224,Det_225,Agile
+225,Det_226,Python
+225,Det_226,Django
+225,Det_226,SQL
+225,Det_226,React Native
+225,Det_226,AWS
+226,Det_227,Business Development
+226,Det_227,Corporate Sales
+226,Det_227,Sales
+227,Det_228,Java
+227,Det_228,Microservices
+227,Det_228,AWS
+227,Det_228,Spring Boot
+227,Det_228,Engineering Management
+228,Det_229,Node.js
+229,Det_230,Postman
+229,Det_230,Swagger
+229,Det_230,Technical Writing
+230,Det_231,Java
+230,Det_231,AWS
+230,Det_231,DevOps
+230,Det_231,Git
+230,Det_231,Jenkins
+231,Det_232,Kotlin
+232,Det_233,Motion Graphics
+232,Det_233,Visual Design
+232,Det_233,Visual Effects
+232,Det_233,Cinema 4D
+232,Det_233,Final Cut Pro
+233,Det_234,Product Management
+233,Det_234,Payment Processing
+233,Det_234,Business Analysis
+233,Det_234,Product Lifecycle Management
+233,Det_234,Product Marketing
+234,Det_235,BigQuery
+234,Det_235,Google Cloud
+234,Det_235,Python
+234,Det_235,Dataflow
+235,Det_236,Anaplan
+235,Det_236,Architecture
+235,Det_236,FPA
+235,Det_236,Finance
+235,Det_236,L1 Support
+235,Det_236,L2 Support
+235,Det_236,SQL
+235,Det_236,Solution Architecture
+235,Det_236,Stakeholder Management
+236,Det_237,Customer Service
+236,Det_237,KYC
+237,Det_238,Python
+237,Det_238,Django
+237,Det_238,Flask
+237,Det_238,Data Structures
+237,Det_238,AWS
+238,Det_239,.NET
+238,Det_239,JavaScript
+238,Det_239,jQuery
+238,Det_239,React.js
+238,Det_239,C#
+239,Det_240,Python
+239,Det_240,Java
+239,Det_240,JavaScript
+239,Det_240,Node.js
+239,Det_240,React.js
+240,Det_241,Python
+240,Det_241,Machine Learning
+240,Det_241,NLP
+241,Det_242,Java
+241,Det_242,Spring
+241,Det_242,MongoDB
+241,Det_242,Python
+241,Det_242,Golang
+242,Det_243,API Testing
+242,Det_243,Angular
+242,Det_243,Database Development
+242,Det_243,Distributed Systems
+242,Det_243,Java
+242,Det_243,NoSQL
+242,Det_243,RDBMS
+242,Det_243,React.js
+242,Det_243,TypeScript
+243,Det_244,Customer Interaction
+243,Det_244,Engineering Management
+243,Det_244,HTML
+243,Det_244,CSS
+244,Det_245,Risk Assessment
+244,Det_245,Risk Management
+244,Det_245,Risk Advisory
+245,Det_246,Java
+245,Det_246,Engineering Management
+245,Det_246,Python
+245,Det_246,JavaScript
+245,Det_246,Algorithms
+246,Det_247,Business Development
+246,Det_247,Corporate Sales
+246,Det_247,Direct Sales
+246,Det_247,International Sales
+246,Det_247,Sales
+246,Det_247,Telecalling
+247,Det_248,Back Office Operations
+247,Det_248,Bill Processing
+247,Det_248,Employee Induction
+247,Det_248,Google Workspace
+247,Det_248,Human Capital Management
+247,Det_248,Inventory Management
+247,Det_248,Microsoft Excel
+247,Det_248,Office Operations
+247,Det_248,Policy Formulation
+247,Det_248,Procurement
+247,Det_248,Vendor Management
+248,Det_249,Amazon Redshift
+248,Det_249,Big Data
+248,Det_249,Data Analysis
+248,Det_249,Data Warehousing
+248,Det_249,ETL
+248,Det_249,Java
+248,Det_249,Spark
+249,Det_250,Oracle Fusion Applications
+249,Det_250,Oracle Financials
+249,Det_250,Oracle Cloud
+249,Det_250,Oracle Agile PLM
+249,Det_250,Coupa
+250,Det_251,Sales
+250,Det_251,Business Development
+251,Det_252,.NET
+251,Det_252,Angular
+251,Det_252,ASP.NET
+251,Det_252,Azure
+251,Det_252,Microservices
+252,Det_253,Salesforce
+252,Det_253,Apex
+252,Det_253,Visualforce
+252,Det_253,Salesforce Data Loader
+253,Det_254,Java
+253,Det_254,SQL
+253,Det_254,Data Structures
+253,Det_254,NoSQL
+253,Det_254,Microservices
+254,Det_255,Palo Alto
+255,Det_256,CrowdStrike
+256,Det_257,Linux
+256,Det_257,Networking
+256,Det_257,Technical Support
+256,Det_257,Virtualization
+256,Det_257,Windows
+256,Det_257,Hyper-V
+256,Det_257,VMware ESX
+256,Det_257,VMware vSphere
+257,Det_258,Microservices
+257,Det_258,Angular
+258,Det_259,DevOps
+258,Det_259,AWS
+258,Det_259,Cloud Computing
+258,Det_259,Kubernetes
+258,Det_259,Deployment
+259,Det_260,Customer Interaction
+259,Det_260,Customer Service
+259,Det_260,Freshdesk
+259,Det_260,Microsoft Excel
+259,Det_260,Zendesk
+260,Det_261,Salesforce
+260,Det_261,Visualforce
+261,Det_262,Deployment
+261,Det_262,DevOps
+261,Det_262,AWS
+261,Det_262,Kubernetes
+261,Det_262,Cloud Computing
+262,Det_263,Corporate Sales
+262,Det_263,NBFC
+262,Det_263,Lead Generation
+262,Det_263,Business Development
+262,Det_263,Key Account Management
+263,Det_264,Angular
+263,Det_264,JavaScript
+263,Det_264,HTML
+263,Det_264,CSS
+263,Det_264,Google Cloud
+264,Det_265,Brand Management
+264,Det_265,Digital Marketing
+264,Det_265,Social Media Marketing
+264,Det_265,Facebook Marketing
+264,Det_265,Marketing Communication
+265,Det_266,Golang
+265,Det_266,Python
+266,Det_267,Business Development
+266,Det_267,Corporate Sales
+266,Det_267,Direct Sales
+266,Det_267,Sales
+267,Det_268,Angular
+267,Det_268,C++
+267,Det_268,Java
+267,Det_268,JavaScript
+267,Det_268,Node.js
+267,Det_268,React.js
+267,Det_268,jQuery
+268,Det_269,Java
+268,Det_269,C++
+268,Det_269,Golang
+268,Det_269,Scala
+269,Det_270,SAP ERP
+270,Det_271,Business Development
+270,Det_271,Direct Sales
+270,Det_271,Sales
+270,Det_271,Telecalling
+271,Det_272,Instructional Design
+272,Det_273,Financial Planning
+272,Det_273,Budgeting
+272,Det_273,Risk Management
+272,Det_273,Compliance Management
+273,Det_274,Education Counselling
+273,Det_274,Sales
+274,Det_275,Java
+274,Det_275,J2EE
+274,Det_275,Spring Boot
+274,Det_275,Microservices
+275,Det_276,Machine Learning
+275,Det_276,NLP
+275,Det_276,Data Collection
+276,Det_277,Bash
+277,Det_278,Java
+277,Det_278,Spring Boot
+277,Det_278,AWS
+277,Det_278,Microservices
+278,Det_279,Asset Management
+278,Det_279,PowerShell
+279,Det_280,Automation Testing
+279,Det_280,QTP
+280,Det_281,ServiceNow
+280,Det_281,Workflow Management
+281,Det_282,JavaScript
+281,Det_282,Microservices
+281,Det_282,Spring Boot
+281,Det_282,AWS
+281,Det_282,Python
+282,Det_283,Data Warehousing
+282,Det_283,ETL
+282,Det_283,SQL
+282,Det_283,Snowflake
+283,Det_284,Accounting
+283,Det_284,Auditing
+283,Det_284,Chartered Accountant
+283,Det_284,Direct Taxation
+283,Det_284,Financial Analysis
+283,Det_284,GST
+283,Det_284,Income Tax
+283,Det_284,Indirect Taxation
+283,Det_284,NetSuite
+283,Det_284,SEZ
+283,Det_284,STPI
+283,Det_284,TDS
+283,Det_284,Taxation
+284,Det_285,Content Marketing
+284,Det_285,Content Writing
+284,Det_285,English Content
+285,Det_286,Customer Interaction
+285,Det_286,Customer Relationship
+285,Det_286,Escalation Management
+285,Det_286,Google Data Studio
+285,Det_286,Microsoft Excel
+285,Det_286,SQL
+286,Det_287,Google Ads
+286,Det_287,SEM
+286,Det_287,SEO
+287,Det_288,Business Development
+287,Det_288,Corporate Sales
+287,Det_288,International Sales
+287,Det_288,Sales

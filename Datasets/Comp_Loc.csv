@@ -1,0 +1,219 @@
+,Company_ID,Company_Name,Location
+0,Comp_0,LTIMindtree,Bangalore
+11,Comp_0,LTIMindtree, Mumbai
+11,Comp_0,LTIMindtree, Chennai
+10,Comp_0,LTIMindtree,Mumbai
+0,Comp_0,LTIMindtree, Hyderabad
+14,Comp_1,Angel One, Work From Home
+12,Comp_1,Angel One,Work From Home
+14,Comp_1,Angel One,Bangalore
+36,Comp_10,Paytm,Work From Home
+214,Comp_100,GyanDhan,Noida
+215,Comp_101,Scaler Academy,Bangalore
+216,Comp_102,Gameberry Labs,Bangalore
+217,Comp_103,Truminds Software Systems,Bangalore
+217,Comp_103,Truminds Software Systems, Gurgaon
+217,Comp_103,Truminds Software Systems, Hyderabad
+218,Comp_104,DAZN,Hyderabad
+222,Comp_105,Treebo, Kolkata
+222,Comp_105,Treebo,Jamshedpur
+221,Comp_105,Treebo, Mumbai
+222,Comp_105,Treebo, Ranchi
+221,Comp_105,Treebo,Bangalore
+220,Comp_105,Treebo,Kolkata
+219,Comp_105,Treebo,Chandigarh
+221,Comp_105,Treebo, Gurgaon
+219,Comp_105,Treebo, Gandhinagar
+219,Comp_105,Treebo, Indore
+224,Comp_106,The Famous,Ahmedabad
+223,Comp_106,The Famous,Bangalore
+225,Comp_107,Hectar India Trading,Chennai
+226,Comp_108,BetterPlace,Bangalore
+227,Comp_109,Neeman's,Hyderabad
+38,Comp_11,WeRize,Bangalore
+229,Comp_110,Thence,Work From Home
+230,Comp_111,AHAsolar,Ahmedabad
+232,Comp_112,upGrad, Hyderabad
+231,Comp_112,upGrad,Mumbai
+232,Comp_112,upGrad,Bangalore
+232,Comp_112,upGrad, Noida
+233,Comp_113,Squared Circle E-Com,Bangalore
+234,Comp_114,Loop Kitchen,Work From Home
+235,Comp_115,Capri Global Capital,Gurgaon
+237,Comp_116,Altimetrik,Work From Home
+239,Comp_117,Donyati,Work From Home
+240,Comp_118,Volvo Martial Motors,Bangalore
+242,Comp_119,Leena AI,Gurgaon
+40,Comp_12,DeNovo Systems,Chennai
+243,Comp_120,Nucleus Software,Noida
+244,Comp_121,Colmore,Bangalore
+245,Comp_122,Refyne,Bangalore
+247,Comp_123,Citrix,Bangalore
+248,Comp_124,O4S,Gurgaon
+249,Comp_125,MediBuddy,Bangalore
+251,Comp_126,TrekNomads,Bangalore
+252,Comp_127,VMware,Bangalore
+254,Comp_128,Carelon Global Solutions,Hyderabad
+255,Comp_128,Carelon Global Solutions,Bangalore
+256,Comp_129,Arintra,Bangalore
+41,Comp_13,Art Attack Animation,Delhi
+257,Comp_130,ElectricPe,Bangalore
+258,Comp_131,Meeraq,Bangalore
+259,Comp_132,Mystifly,Bangalore
+260,Comp_133,sentra.world,Bangalore
+261,Comp_134,Hub,Gurgaon
+262,Comp_135,KSBM Infotech,Noida
+263,Comp_136,GetVantage,Mumbai
+264,Comp_137,Brandtorch,Mumbai
+265,Comp_138,Integral Technologies,Work From Home
+266,Comp_139,Zoomcar,Bangalore
+42,Comp_14,Rubrik,Work From Home
+268,Comp_140,PACE Group Of Companies,Delhi
+269,Comp_141,Hy-Vee,Bangalore
+270,Comp_142,Jodo,Bangalore
+271,Comp_143,LeadSquared,Bangalore
+272,Comp_144,interface.ai,Work From Home
+273,Comp_145,Hugosave,Hyderabad
+275,Comp_146,Delta,Bangalore
+276,Comp_147,Eight Network,Bangalore
+277,Comp_148,Emporiom Digital,Noida
+278,Comp_149,Playtoome,Kolkata
+47,Comp_15,Cargill, Hyderabad
+47,Comp_15,Cargill, Vijayawada
+47,Comp_15,Cargill,Chennai
+46,Comp_15,Cargill,Kochi
+45,Comp_15,Cargill, Kurnool
+45,Comp_15,Cargill,Anantapur
+44,Comp_15,Cargill, Mysuru
+44,Comp_15,Cargill, Coimbatore
+279,Comp_150,Gumlet,Work From Home
+280,Comp_151,Clear,Bangalore
+281,Comp_152,UnionSys Technologies,Pune
+283,Comp_153,Lumen Technologies,Bangalore
+285,Comp_154,Quantum,Work From Home
+286,Comp_155,Infosys BPM,Hyderabad
+287,Comp_156,Sundial,Bangalore
+289,Comp_157,Bizongo,Mumbai
+290,Comp_158,Brilliance,Work From Home
+291,Comp_159,CloudBloom,Bangalore
+48,Comp_16,AXISCADES,Chennai
+292,Comp_160,Freeskout,Delhi
+293,Comp_161,OneCode.in,Bangalore
+294,Comp_162,IDP Education,Mumbai
+295,Comp_163,Evolving Systems,Work From Home
+296,Comp_164,Nov,Mumbai
+297,Comp_165,EagleView,Work From Home
+298,Comp_166,SDLC Corp,Noida
+49,Comp_17,Nirvana Insurance,Bangalore
+51,Comp_18,GoKwik,Work From Home
+54,Comp_19,Nab,Delhi
+55,Comp_19,Nab,Gurgaon
+18,Comp_2,GlobalLogic,Bangalore
+68,Comp_20,Google, Hyderabad
+60,Comp_20,Google,Bangalore
+67,Comp_20,Google,Hyderabad
+71,Comp_21,Tranzact,Mumbai
+72,Comp_22,SLK,Bangalore
+74,Comp_23,Level AI,Work From Home
+75,Comp_24,VapprTech,Gurgaon
+76,Comp_25,Head Digital Works,Hyderabad
+80,Comp_26,Dunzo,Bangalore
+77,Comp_26,Dunzo, Delhi
+81,Comp_26,Dunzo,Mumbai
+77,Comp_26,Dunzo, Mumbai
+82,Comp_27,Saltside Technologies,Sri Lanka
+83,Comp_28,Crayon Data,Chennai
+84,Comp_29,PrivateCircle,Bangalore
+19,Comp_3,Zenda,Delhi
+19,Comp_3,Zenda, Lucknow
+20,Comp_3,Zenda, Pune
+21,Comp_3,Zenda,Bangalore
+21,Comp_3,Zenda, Delhi
+20,Comp_3,Zenda,Mumbai
+86,Comp_30,Jalan Technologies,Work From Home
+88,Comp_31,Whatfix,Bangalore
+88,Comp_31,Whatfix, Gurgaon
+93,Comp_32,Zepto,Bangalore
+95,Comp_33,Viacom18,Bangalore
+106,Comp_34,CashFlo,Bangalore
+99,Comp_34,CashFlo,Mumbai
+109,Comp_35,NeoSOFT Technologies,Chennai
+111,Comp_36,OrangeMantra,Bangalore
+113,Comp_37,BYJU'S,Bangalore
+112,Comp_37,BYJU'S, Work From Home
+114,Comp_38,BillDesk,Mumbai
+116,Comp_39,Quince,Hyderabad
+23,Comp_4,Swimlane,Hyderabad
+117,Comp_40,ARi,Chennai
+118,Comp_41,Reliance Jio,Bangalore
+120,Comp_42,Chargeup,Delhi
+121,Comp_43,Aavenir,Ahmedabad
+122,Comp_44,Jupiter,Bangalore
+124,Comp_45,Predators Network,Delhi
+125,Comp_46,Motilal Oswal Financial Services,Mumbai
+126,Comp_47,Twenty Point Nine Five Ventures,Noida
+128,Comp_48,Paperflite,Chennai
+129,Comp_49,Mashreq Bank,Bangalore
+27,Comp_5,Delta Air Lines,Bangalore
+130,Comp_50,Baygrape Technology Solutions,Bangalore
+131,Comp_51,RingCentral,Bangalore
+133,Comp_52,ShopSe,Mumbai
+134,Comp_53,ADOS Interiors,Bangalore
+136,Comp_54,Spendflo,Chennai
+137,Comp_55,MOBtexting,Bangalore
+138,Comp_56,Nightfall,Bangalore
+138,Comp_56,Nightfall, Work From Home
+139,Comp_57,Deloitte,Work From Home
+142,Comp_58,ImSafeNow,Pune
+143,Comp_59,Advanced Business and Healthcare India,Bangalore
+29,Comp_6,BlackLight Studio Works,Noida
+146,Comp_60,Asentech,Work From Home
+150,Comp_61,Ivy Homes,Bangalore
+151,Comp_62,InBetween,Work From Home
+153,Comp_63,Yangpoo Executive Education,Mumbai
+155,Comp_64,Certa,Work From Home
+156,Comp_65,7-Eleven,Bangalore
+157,Comp_66,Apollo.io,Bangalore
+157,Comp_66,Apollo.io, Work From Home
+158,Comp_67,CubeHQ,Bangalore
+159,Comp_68,Allen Career Institute,Bangalore
+161,Comp_69,Flatworld Solutions,Bangalore
+30,Comp_7,HDFC Life,Bangalore
+31,Comp_7,HDFC Life, Mumbai
+164,Comp_70,One Muthoot,Bangalore
+165,Comp_71,Owens & Minor,Work From Home
+170,Comp_72,OnGrid,Gurgaon
+171,Comp_73,Carelon,Hyderabad
+173,Comp_74,Neuralgo,Coimbatore
+174,Comp_75,OYO Rooms,Gurgaon
+175,Comp_76,Mahindra Insurance Brokers,Belgaum
+176,Comp_77,Lenskart.com,Bangalore
+177,Comp_78,Invansys Technologies,Delhi
+178,Comp_79,Apexon,Bangalore
+179,Comp_79,Apexon,Coimbatore
+32,Comp_8,Aerchain,Bangalore
+180,Comp_80,Barco,Noida
+181,Comp_81,DevRev,Chennai
+182,Comp_82,Applied Materials,Bangalore
+183,Comp_82,Applied Materials, Chennai
+184,Comp_83,Hi-Tech Robotic Systemz,Gurgaon
+185,Comp_84,Stable Money,Bangalore
+186,Comp_85,Verizon Communications,Bangalore
+188,Comp_85,Verizon Communications,Hyderabad
+189,Comp_86,Hewlett Packard Enterprise (HPE),Bangalore
+190,Comp_86,Hewlett Packard Enterprise (HPE),Mumbai
+191,Comp_87,TechStar Group,Chennai
+192,Comp_88,Mensa Brands,Bangalore
+195,Comp_89,3 Minds Digital,Hyderabad
+33,Comp_9,Univariety,Hyderabad
+196,Comp_90,Infosys,Mangalore
+197,Comp_90,Infosys,Bangalore
+198,Comp_91,Y Media Labs,Bangalore
+200,Comp_92,3M,Bangalore
+202,Comp_93,Niro,Bangalore
+203,Comp_94,Richpanel,Work From Home
+204,Comp_95,Intellect Design Arena,Work From Home
+206,Comp_96,My Value Trip,Surat
+207,Comp_97,Quotient Technology,Bangalore
+211,Comp_98,Suraasa,Gurgaon
+213,Comp_99,Bidgely,Bangalore
