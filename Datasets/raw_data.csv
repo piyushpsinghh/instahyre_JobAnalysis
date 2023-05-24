@@ -1,0 +1,300 @@
+,Company_Name,Location,yr_exper,Hr,Skills,founded_Year,Size_of_comapny,Designation
+0,LTIMindtree,"Bangalore, Hyderabad, Mumbai",3-6 Years,Akshata,Adobe Experience Manager (AEM),1996,More than 1000 employees,AEM Developer  
+1,Angel One,Work From Home,9-14 Years,Prachi Jain,"Java,Data Structures,Python,Golang,Algorithms",1987,More than 1000 employees,Staff - Backend Developer 
+2,LTIMindtree,"Bangalore, Hyderabad, Mumbai",5-6 Years,Akshata,"Informatica,Informatica PowerCenter",1996,More than 1000 employees,Informatica IICS Developer  
+3,GlobalLogic,Bangalore,10-15 Years,Vishakha Tyagi,"Salesforce,Apex,Lightning,Visualforce",2000,More than 1000 employees,Salesforce Architect 
+4,Zenda,"Delhi, Lucknow",3-7 Years,Meenal Sharma,"Business Development,Channel Sales,Direct Sales,Sales",2021,10 - 50 employees,Territory Sales Manager  
+5,Swimlane,Hyderabad,10-14 Years,Ruchi Gupta,"Python,Machine Learning,SQL,AWS,Java",2014,200 - 500 employees,Data Scientist 
+6,Delta Air Lines,Bangalore,4-8 Years,Nancy Sharma,"Python,AWS,SQL",1928,More than 1000 employees,Senior Cloud Engineer 
+7,BlackLight Studio Works,Noida,5-6 Years,Kanupriya Bhatia,Node.js,2011,10 - 50 employees,Senior Node.js Developer 
+8,HDFC Life,Bangalore,3-6 Years,Hr,"Business Analysis,Documentation,Microsoft Excel,Power BI,R,SQL,Tableau",2000,More than 1000 employees,Business Analyst  
+9,Aerchain,Bangalore,3-6 Years,Saranya R,"Java,Spring,Hibernate",2016,10 - 50 employees,Software Engineer 
+10,Univariety,Hyderabad,4-8 Years,Sunitha Mudiraj,"Corporate Strategy,Customer Relationship,Customer Service,Key Account Management,Retention Management,Stakeholder Management,Strategic Planning",2011,50 - 200 employees,Key Account Manager / Senior Key Account Manager  
+11,Paytm,Work From Home,7-12 Years,Priyal,"Payment Solutions,Product Management",2000,More than 1000 employees,PPM / Director - Product Management 
+12,WeRize,Bangalore,1-4 Years,Nisha Sharma,"Python,SQL",2019,50 - 200 employees,Data Analyst 
+13,DeNovo Systems,Chennai,3-5 Years,Archana Manne,"Java,MariaDB,Spring Boot,J2EE,MySQL",2014,10 - 50 employees,Java Developer 
+14,Art Attack Animation,Delhi,3-8 Years,Madhulika Khatri,"Sales,Business Development,Graphic Design,2D Animation,UX Design",2018,0 - 10 employees,Business Development Manager 
+15,Rubrik,Work From Home,7-11 Years,Balaji Sundaravadivel,"Cloud Computing,Networking,Solution Architecture,Virtualization,AWS,Azure,Citrix XenServer,Google Cloud,Hyper-V,OpenStack,VMware ESX,VMware vSphere",2015,500 - 1000 employees,"Technical Product Manager, "
+16,Cargill,"Chennai, Coimbatore, Mysuru",3-7 Years,Aakanshu Gupta,"Corporate Sales,Distribution,Lead Generation,Sales",1900,More than 1000 employees,Sales Executive - General Trade  
+17,AXISCADES,Chennai,4-8 Years,A Prerana Tirkey,"Simulation,Teamcenter,Vismockup",1998,More than 1000 employees,Process Simulation Engineer 
+18,Nirvana Insurance,Bangalore,3-6 Years,Akriti Singh,"Machine Learning,Python,Statistics,Computer Vision,R",2021,10 - 50 employees,Data Scientist 
+19,GoKwik,Work From Home,5-9 Years,Chandrima Sarma,"Accounting,Auditing,Finance,GST,Income Tax,MIS,Sales Tax,TDS,Taxation",2020,50 - 200 employees,Finance Manager  
+20,Nab,Delhi,7-12 Years,Pooja Shree Sr,"Control-M,Unix,Mainframes",1981,More than 1000 employees,Senior Consultant I - Engineer 
+21,Google,"Bangalore, Hyderabad",6-10 Years,Hari Hara Eshwaran S,"C,C++,Networking",1998,More than 1000 employees,Senior Software Engineer - Networking  
+22,Tranzact,Mumbai,2-4 Years,Mukti Shetty,"Business Development,Channel Sales,Direct Sales,Key Account Management,Sales",2017,10 - 50 employees,Business Development Executives  
+23,SLK,Bangalore,2-4 Years,Keerthi K,"Java,MQL,ENOVIA,TCL,SQL",2000,More than 1000 employees,ENOVIA Developer 
+24,Level AI,Work From Home,3-5 Years,Vaani Sharma,"AWS,Terraform,Jenkins,Ansible,Helm",2018,10 - 50 employees,Site Reliability Engineer 
+25,VapprTech,Gurgaon,4-5 Years,Sonal Thakre,"CSS,HTML,JavaScript,React.js",2021,10 - 50 employees,React.js Developer 
+26,Head Digital Works,Hyderabad,4-8 Years,Sughra Ali Zaidi,"Apache Beam,Java,JavaScript,Linux,NoSQL,React.js,Spring,Spring Boot,Tomcat,jQuery",2005,200 - 500 employees,Software Development Engineer  
+27,Dunzo,"Bangalore, Delhi, Mumbai",2-4 Years,Sindhu Muttiravala,"CRM,Corporate Sales,HLOOKUP,Jira,Key Account Management,Sales",2014,200 - 500 employees,Enterprise - Sales Manager  
+28,Saltside Technologies,Sri Lanka,5-8 Years,Vandana Bali,"Project Management,Payment Solutions,Information Security,Banking Operations",2011,500 - 1000 employees,Project Manager - Payment Services 
+29,Crayon Data,Chennai,9-12 Years,Meenakshi Priyadharshini,".NET,Algorithms,Architecture,Data Structures,HTTP,Java,Node.js,Spring Boot",2012,50 - 200 employees,Engineering Manager  
+30,PrivateCircle,Bangalore,1-2 Years,Osama Khan,"Angular,JavaScript,Git,HTML,CSS",2015,10 - 50 employees,SDE - 1 Frontend 
+31,Jalan Technologies,Work From Home,2-4 Years,Sneha Suresh,"IT Recruitment,Non IT Recruitment,Recruitment",2016,10 - 50 employees,TA Specialist  
+32,Whatfix,"Bangalore, Gurgaon",6-10 Years,Sowmya Shivarama,"Corporate Sales,International Sales,Key Account Management,LinkedIn Sales Navigator",2013,200 - 500 employees,Enterprise Sales Outbound  
+33,Zepto,Bangalore,2-7 Years,Ramya Tanya,"JavaScript,React Native,React.js",2021,More than 1000 employees,SSE / FE 
+34,Viacom18,Bangalore,8-13 Years,Archana Tr,"iOS,Objective-C,Architecture,Swift,MVP",2007,More than 1000 employees,iOS Architect 
+35,CashFlo,Bangalore,5-10 Years,Ravi Dubey,Product Management,2017,10 - 50 employees,Senior Product Manager 
+36,NeoSOFT Technologies,Chennai,3-8 Years,Kapil Goyal,"Java,Spring",1996,More than 1000 employees,Senior Java Developer 
+37,Zepto,Bangalore,5-7 Years,Priyanka Mahindrakar,"React Native,React.js,JavaScript,HTML,CSS",2021,More than 1000 employees,Senior Software Engineer - Frontend 
+38,OrangeMantra,Bangalore,5-8 Years,Ayushi Srivastava,"JavaScript,Angular,React.js,UX Design",2001,50 - 200 employees,React.js / Angular JS Developer 
+39,BYJU'S,"Bangalore, Work From Home",3-6 Years,Muskan Grover,"CSS,HTML,JavaScript,React.js",2011,More than 1000 employees,Senior Software Engineer 
+40,BillDesk,Mumbai,10-15 Years,Uneza Khan,"Java,Spring Boot,SOAP,REST Assured,Payment Solutions",2000,500 - 1000 employees,Engineering Manager 
+41,Quince,Hyderabad,12-15 Years,Kiran Palakodeti,"Product Management,Fraud Management,Agile,Order Fulfillment,Loyalty Programs",2018,50 - 200 employees,Principal Product Manager 
+42,ARi,Chennai,4-6 Years,Archana Tr,"Angular,HTML,CSS,JavaScript",2006,More than 1000 employees,UI Developer 
+43,CashFlo,Mumbai,5-10 Years,Manzar Imam,Product Management,2017,10 - 50 employees,Senior Product Manager 
+44,Reliance Jio,Bangalore,6-11 Years,Bhawana Singh,"Manual Testing,Automation Testing,Performance Testing,Quality Assurance,SDET",2016,500 - 1000 employees,Quality Assurance Engineer 
+45,Chargeup,Delhi,4-8 Years,Vandana Hirey,"General Management,Strategic Planning,Operations Management,Program Management",2019,10 - 50 employees,Chief of Staff 
+46,Aavenir,Ahmedabad,2-4 Years,Vishali Vashnavi,"Manual Testing,Selenium,Mobile Apps Testing,Java,Agile",2019,10 - 50 employees,QA Engineer 
+47,Jupiter,Bangalore,4-6 Years,Lalitha Gangadhara,"Business Development,Channel Sales,Corporate Banking,Corporate Loans,Corporate Sales,Corporate Strategy,Key Account Management,Marketing,Microsoft Office,Partnerships,Product Marketing,Retail Banking,Retail Loans,Retail Marketing,Sales,Stakeholder Management,Strategic Planning",2019,50 - 200 employees,Business Development 
+48,Predators Network,Delhi,0-3 Years,Gaurav Ghosh,"Google Ads,SEM,SEO",2017,0 - 10 employees,Social Media Executive 
+49,GoKwik,Work From Home,5-9 Years,Chandrima Sarma,"Business Development,Corporate Sales,Key Account Management,Sales",2020,50 - 200 employees,Senior Sales Manager  
+50,Motilal Oswal Financial Services,Mumbai,3-7 Years,Suraj Gupta,"Investment Advisory,Mutual Funds,HNI,Insurance Broking,Fund Management",1987,More than 1000 employees,PCG Adviser 
+51,Twenty Point Nine Five Ventures,Noida,2-5 Years,Chandramouli Careersahead,"React Native,Flutter,React.js",2022,10 - 50 employees,Software Development Engineer - Frontend 
+52,Paperflite,Chennai,2-4 Years,Reeba Arshad,"Sales,Sales Enablement",2016,50 - 200 employees,Saas Sales Account Executive 
+53,Mashreq Bank,Bangalore,5-9 Years,Chetan Kumar Marturkar,"Machine Learning,NLP,Python,Data Analysis,SQL",1967,More than 1000 employees,Data Scientist 
+54,Google,"Bangalore, Hyderabad",7-11 Years,Shraddha Gupta Sheher,"C#,C++,Golang,Java,JavaScript,Linux,Python,Unix",1998,More than 1000 employees,Senior Software Engineer  
+55,Baygrape Technology Solutions,Bangalore,4-9 Years,Deval Talati Shah,".NET,LINQ,Git",2016,10 - 50 employees,.NET Core Developer 
+56,LTIMindtree,"Bangalore, Hyderabad, Mumbai",5-6 Years,Akshata,"Oracle RAC,PL-SQL",1996,More than 1000 employees,PL / SQL Developer  
+57,RingCentral,Bangalore,10-14 Years,Pallavi Padhy,"Accounting,CPA,ERPS,Finance,Financial Reporting,NetSuite,Payroll Management",2003,More than 1000 employees,Manager - Accounting  
+58,ShopSe,Mumbai,4-7 Years,Ajay Kumar,"Mapping,NBFC,Product Lifecycle Management,Product Management",2019,50 - 200 employees,Product Manager - Digital Lending  
+59,ADOS Interiors,Bangalore,1-4 Years,Suranjan Barman,"Sales,Direct Sales,Customer Relationship,Customer Service,Corporate Sales",2014,10 - 50 employees,Sales Executive / Senior Sales Executive 
+60,Spendflo,Chennai,5-8 Years,Aience Boruah,"Java,Node.js,Python,Data Structures,Algorithms",2020,10 - 50 employees,Senior Backend Engineer 
+61,MOBtexting,Bangalore,7-12 Years,Madhumitha Sampathkumar,"Java,React.js,Spring,Agile,Data Structures",2012,50 - 200 employees,Senior Full Stack Developer - Java 
+62,Nightfall,"Bangalore, Work From Home",4-8 Years,Sabina Sultana,"CSS,HTML,JavaScript,Angular,Backbone.js,Ember.js,jQuery,React.js,Vue.js",2019,10 - 50 employees,Front End Engineer 
+63,Deloitte,Work From Home,4-9 Years,Ghowsalya B,"Java,Angular,Hibernate,TypeScript,JavaScript",1845,More than 1000 employees,Java Angular Developer 
+64,ImSafeNow,Pune,6-11 Years,Girija Perumal,Hyperion Planning,2017,0 - 10 employees,Hyperion Developer 
+65,Advanced Business and Healthcare India,Bangalore,10-15 Years,Divya Sharma,"JavaScript,Architecture,Angular,AWS,Azure",2010,More than 1000 employees,Principal Software Engineer - UI Architect 
+66,Asentech,Work From Home,5-8 Years,Harish Chandra,"SEO,Link Building,Google Search Console",2007,50 - 200 employees,SEO Consultant 
+67,Dunzo,Bangalore,0-2 Years,Niharika Sharma,"Manual Testing,Automation Testing,Mobile Apps Testing,Flutter,Selenium",2014,200 - 500 employees,QA Engineer 
+68,Google,"Bangalore, Hyderabad",6-10 Years,Hari Hara Eshwaran S,"Database Administration,Database Development,Distributed Systems,jQuery",1998,More than 1000 employees,Senior Software Engineer - Database  
+69,Ivy Homes,Bangalore,1-5 Years,Pritam Thakur,"Business Development,Lead Generation,Sales",2021,0 - 10 employees,Sales / Senior Sales Associate  
+70,InBetween,Work From Home,3-7 Years,Vipin Dhaker,"C++,InDesign",1992,10 - 50 employees,Senior Software Developer - C++ 
+71,Yangpoo Executive Education,Mumbai,0-1 Years,Mansi Goyal,"Sales,Business Development,Direct Sales,Corporate Sales,International Sales",2016,50 - 200 employees,Career Counsellor 
+72,Certa,Work From Home,3-5 Years,Ravindra Rathod,"JavaScript,Playwright,Automation Testing,Python",2013,50 - 200 employees,Test Engineer 
+73,7-Eleven,Bangalore,12-17 Years,Aditi Tyagi,"Java,React.js,AWS,Spring Boot,Microservices",1927,More than 1000 employees,Staff Engineer - Java Full Stack 
+74,Predators Network,Delhi,0-3 Years,Gaurav Ghosh,"2D Animation,3D Animation,Graphic Design,Corel Draw,Illustrator,InDesign,Photoshop",2017,0 - 10 employees,Creative Graphic Designer 
+75,Apollo.io,"Bangalore, Work From Home",1-2 Years,Abhishek Nadagowd,"Golang,Java,Python,Ruby,Hibernate,Ruby on Rails",2015,50 - 200 employees,Backend Engineer 
+76,CubeHQ,Bangalore,1-3 Years,Nikita Joshi,"React.js,JavaScript,HTML,CSS,TypeScript",2022,0 - 10 employees,Frontend Developer 
+77,CashFlo,Bangalore,6-9 Years,Siddhartha S,"Product Management,Product Lifecycle Management,Finacle,Payment Solutions,Credit Evaluation",2017,10 - 50 employees,Senior Product Manager 
+78,Google,"Bangalore, Hyderabad",5-9 Years,Aneesh Vikram,"Finance,GTM,Marketing,Product Management,Sales,UX Design",1998,More than 1000 employees,Product Manager 
+79,Allen Career Institute,Bangalore,8-13 Years,Riya Prasad,"JavaScript,React.js,Node.js,Angular",1988,More than 1000 employees,Staff Software Engineer 
+80,Nab,Gurgaon,20-24 Years,Supriya K,"Auditing,Risk Assessment,Vendor Management",1981,More than 1000 employees,Manager II 
+81,Flatworld Solutions,Bangalore,3-6 Years,Selvi U,"Angular,ASP.NET,.NET,HTML,CSS",2002,More than 1000 employees,Dot .NET Developer 
+82,One Muthoot,Bangalore,6-10 Years,Rahul Prakash,"JavaScript,React.js,HTML,CSS,TypeScript",2016,More than 1000 employees,Frontend SDE4 
+83,Asentech,Work From Home,8-12 Years,Jai Singh,"PHP,Wordpress,HTML,jQuery,Jira",2007,50 - 200 employees,Wordpress Developer - Lead 
+84,Asentech,Work From Home,5-7 Years,Jai Singh,".NET,SQL Server,jQuery,C#,Agile",2007,50 - 200 employees,Dot .NET Developer 
+85,Deloitte,Work From Home,5-10 Years,Ghowsalya B,"ServiceNow,ITSM",1845,More than 1000 employees,ServiceNow Developer 
+86,Owens & Minor,Work From Home,4-6 Years,Omkar Sonawane,PKI,1882,More than 1000 employees,Cybersecurity Engineer - PKI [T500 - 6924 
+87,OnGrid,Gurgaon,3-4 Years,Ayushi Rawat,Product Management,2016,200 - 500 employees,Product Marketing Specialist 
+88,Carelon,Hyderabad,5-8 Years,Archana Manne,"Python,AWS,Maven,Docker,Spring Boot",2022,More than 1000 employees,Full Stack Developer - Java 
+89,CashFlo,Bangalore,8-12 Years,Ravi Dubey,"Node.js,Python",2017,10 - 50 employees,Engineering Manager - Node.js &amp; Python 
+90,Neuralgo,Coimbatore,5-8 Years,Jothi Balagan,"React.js,Node.js,Angular,Python,SQL",2023,0 - 10 employees,Full Stack Developer 
+91,Delta Air Lines,Bangalore,4-6 Years,Omkar Sonawane,"DevOps,Python",1928,More than 1000 employees,Senior Site Reliability Engineer [T500 - 6976 
+92,Flatworld Solutions,Bangalore,3-7 Years,Navya C M,".NET,Angular,React.js,ASP.NET,C#",2002,More than 1000 employees,.NET Developer 
+93,ADOS Interiors,Bangalore,3-8 Years,Suranjan Barman,"Sales,Business Development,Direct Sales,Customer Interaction,Customer Service",2014,10 - 50 employees,Senior Sales Executive / Sales Manager 
+94,OYO Rooms,Gurgaon,2-5 Years,Shraddha Jhamb,"Consumer Software,Product Management",2013,More than 1000 employees,Product Manager - II 
+95,Viacom18,Bangalore,8-13 Years,Mansi Saxena,"Application Security,Vulnerability Assessment,Network Security",2007,More than 1000 employees,Security Engineer 
+96,Mahindra Insurance Brokers,Belgaum,3-8 Years,Priyanka Patra,"Direct Sales,Sales,Branch Management,Field Work",2004,500 - 1000 employees,Branch Manager 
+97,Lenskart.com,Bangalore,5-9 Years,Sneha Halimani,"iOS,Objective-C,Swift,Cocoa",2008,More than 1000 employees,iOS Developer 
+98,Invansys Technologies,Delhi,3-5 Years,Amanpreet Singh,"JavaScript,React.js",2005,10 - 50 employees,React.js Developer 
+99,Apexon,Bangalore,3-7 Years,Kirthika T,"Django,Flask,Python",1996,More than 1000 employees,Full Stack Developer 
+100,Barco,Noida,9-13 Years,Srikanth Alladi,"C++,GUI,Qt,QML",1934,More than 1000 employees,Senior Software Engineer 
+101,Jalan Technologies,Work From Home,2-5 Years,Sneha Suresh,"Brand Management,Content Marketing,Facebook Marketing,KPI,LinkedIn Marketing,Social Media Marketing",2016,10 - 50 employees,Social Media Marketer  
+102,DevRev,Chennai,3-8 Years,Deepika Kangokar,"UX Design,JavaScript,React.js,Progressive Web Apps,HTML",2020,10 - 50 employees,UX Engineer 
+103,CashFlo,Bangalore,6-10 Years,Ravi Dubey,"Product Management,Credit Management",2017,10 - 50 employees,Senior Product Manager - Credit &amp; Lending 
+104,Dunzo,Bangalore,0-2 Years,Niharika Sharma,"Java,Python,Node.js,Kotlin",2014,200 - 500 employees,SDE 
+105,Applied Materials,Bangalore,4-8 Years,Pallavi Choudhary,"Algorithms,C,C++,Computer Vision,Data Structures,Devicenet,Hardware,Image Processing,Industrial Automation,Microarrays,Modbus,Python,RS232,Visual Studio",1967,More than 1000 employees,C / C++ Development  
+106,Hi-Tech Robotic Systemz,Gurgaon,10-14 Years,Siddhartha S,"Angular,Java,Spring Boot,SQL,Spring",2014,500 - 1000 employees,Team Lead - Technical 
+107,Stable Money,Bangalore,6-10 Years,Sumitabh Ghosh,"Java,AWS,Spring Boot,Data Structures,Algorithms",2022,10 - 50 employees,SDE 3 
+108,Verizon Communications,Bangalore,3-5 Years,Ipshita Samantroy,"Machine Learning,Google Cloud,BigQuery,Python,MLOps",1983,More than 1000 employees,Machine Learning Engineer 
+109,Zepto,Bangalore,2-5 Years,Nikita Rai,"React Native,JavaScript,React.js,Android,iOS",2021,More than 1000 employees,Frontend Developer 
+110,Hewlett Packard Enterprise (HPE),Bangalore,8-13 Years,Sachin K J,"Sales,Business Development",2015,More than 1000 employees,Sales Specialist 
+111,Google,"Bangalore, Hyderabad",10-14 Years,Aneesh Vikram,"Distributed Systems,Program Management,Project Management",1998,More than 1000 employees,Technical Program Manager 
+112,TechStar Group,Chennai,6-8 Years,Simran Jagtiani,"Java,Spring Boot,Microservices,React.js,Multithreading",2002,200 - 500 employees,Java Fullstack Developer 
+113,Mensa Brands,Bangalore,3-7 Years,Manjit Kaur,"SQL,Data Analysis,Python,Tableau,Statistics",2017,10 - 50 employees,Data Analyst 
+114,3 Minds Digital,Hyderabad,6-11 Years,Muni Reddy Yerrappa,"Oracle HCM,Technical Consulting,Functional Consulting,Payroll Management,HR Operations",2016,10 - 50 employees,Oracle Fusion HCM Technical / Functional Consultant 
+115,Infosys,Mangalore,3-5 Years,Navya C M,"IT Support,LAN,DHCP,Active Directory",1981,More than 1000 employees,System Engineer 
+116,Univariety,Hyderabad,2-6 Years,Sunitha Mudiraj,"Business Development,Channel Sales,Corporate Sales,Direct Sales,International Sales,Sales",2011,50 - 200 employees,Manager - Institutional / B2B Sales  
+117,Google,"Bangalore, Hyderabad",5-9 Years,Aneesh Vikram,"Big Data,Cloud Computing,Cloud Security,Enterprise Software,GTM,Google Cloud,Machine Learning,Product Management,Supply Chain Management,UX Design",1998,More than 1000 employees,Product Manager - Cloud 
+118,InBetween,Work From Home,5-10 Years,Vipin Dhaker,"C++,InDesign",1992,10 - 50 employees,Tech Lead - C++ 
+119,Y Media Labs,Bangalore,6-9 Years,Anoushka Goswami,Flutter,2009,200 - 500 employees,Flutter Developer 
+120,Applied Materials,"Bangalore, Chennai",3-7 Years,Pallavi Choudhary,"C#,C++,Java,Linux,Oracle Access Manager,Oracle Database,PostgreSQL,PowerShell,Python,Shell Scripting,Windows",1967,More than 1000 employees,Software Technologist  
+121,3M,Bangalore,5-9 Years,Omkar Sonawane,SAP HANA,1902,More than 1000 employees,Senior Financial Business Analyst [T500 - 6956 
+122,Niro,Bangalore,2-5 Years,Ramya Shetty,"Node.js,React.js,JavaScript",2021,10 - 50 employees,Fullstack Develoepr - SDE2 
+123,Angel One,Work From Home,2-7 Years,Prachi Jain,"Python,Hive,Spark,ETL,Spark SQL",1987,More than 1000 employees,Data Scientist 
+124,DeNovo Systems,Chennai,3-5 Years,Nirosha Yalawar,"AWS,MySQL,API Testing,MongoDB,Spring Boot",2014,10 - 50 employees,Backend Developer 
+125,Richpanel,Work From Home,3-7 Years,Ayushi Aeran,"Customer Service,Desktop Troubleshooting,L2 Support",2018,10 - 50 employees,Product Support Engineer / Customer Support  
+126,Intellect Design Arena,Work From Home,3-6 Years,Sridevi Viswanathan,"Vue.js,JavaScript,HTML,CSS",2014,More than 1000 employees,UI Developer 
+127,Asentech,Work From Home,4-5 Years,Jai Singh,"SEO,SEM,SEMrush,Jira,Social Media Marketing",2007,50 - 200 employees,SEO Specialist 
+128,My Value Trip,Surat,5-10 Years,Haseena Banu,"Digital Marketing,Google Ads,Content Writing",2014,200 - 500 employees,Marketing Head 
+129,Quotient Technology,Bangalore,2-4 Years,Rituparna Borah,"Python,Big Data,SQL,Snowflake,Airflow",1998,500 - 1000 employees,Data Engineer 
+130,Infosys,Bangalore,5-8 Years,Priyanka Paul,"Angular,Java,Spring Boot,Microservices,SQL",1981,More than 1000 employees,Full Stack Developer 
+131,Certa,Work From Home,3-5 Years,Safafirdos Shaikh,"Playwright,Automation Testing,Python,JavaScript,Quality Assurance",2013,50 - 200 employees,QA Engineer 
+132,Nab,Gurgaon,2-7 Years,Raveendra Banoth,"Java,REST Assured,SDET,Microservices,AWS",1981,More than 1000 employees,Quality Engineer 
+133,Suraasa,Gurgaon,1-2 Years,Priya,International Sales,2017,50 - 200 employees,International Voice Process 
+134,Owens & Minor,Work From Home,5-7 Years,Omkar Sonawane,.NET,1882,More than 1000 employees,.NET Developer - BizTalk [T500 - 6844 
+135,Verizon Communications,Bangalore,2-7 Years,Asha L,"Hadoop,Jenkins,Kafka,Spark,Unix",1983,More than 1000 employees,Hadoop Administrator 
+136,Cargill,"Anantapur, Hyderabad, Kurnool",3-7 Years,Aakanshu Gupta,"Corporate Sales,Distribution,Lead Generation,Sales",1900,More than 1000 employees,Sales Executive - General Trade  
+137,Bidgely,Bangalore,2-7 Years,Rashmi Srivastava,"Machine Learning,Python,NLP,Statistics,Data Mining",2010,200 - 500 employees,Senior Data Scientist 
+138,GyanDhan,Noida,1-4 Years,Asmita Gupta,"Sales,Business Development,Customer Relationship,Corporate Sales,Direct Sales",2015,10 - 50 employees,Relationship Manager 
+139,Google,"Bangalore, Hyderabad",6-10 Years,Hari Hara Eshwaran S,"Cloud Computing,Hadoop,Hive,Java,Jupyter,Spark",1998,More than 1000 employees,Senior Software Engineer - Big Data  
+140,Paytm,Work From Home,10-15 Years,Priyal,"Credit Cards,Product Management",2000,More than 1000 employees,VP Product - Credit Card 
+141,Scaler Academy,Bangalore,2-4 Years,Manzar Imam,"Business Development,Counselling,Education Counselling,International Sales,Sales",2019,50 - 200 employees,Admission Counsellor 
+142,Verizon Communications,Hyderabad,4-7 Years,Gopikrishnan Kg,"React.js,Spring Boot,Microservices,Java,SQL",1983,More than 1000 employees,Full Stack Developer 
+143,Gameberry Labs,Bangalore,4-9 Years,Lakshmi Reddy,"Visual Design,Graphic Design,UX Design,2D Animation,Game Design",2017,50 - 200 employees,UI Artist 
+144,LTIMindtree,Bangalore,5-6 Years,Akshata,"API Testing,Appium,Cucumber,JMeter,Java,Mobile Apps Testing,Performance Testing,Python,Ruby,SDET,Selenium,SoapUI",1996,More than 1000 employees,Automation Testing  
+145,Truminds Software Systems,"Bangalore, Gurgaon, Hyderabad",4-6 Years,Priyansha Arora Sheher,"Angular,Java,JavaScript,Node.js,React.js,Spring,jQuery",2017,200 - 500 employees,Senior Full - Stack Developer  
+146,OrangeMantra,Bangalore,2-5 Years,Navya C M,"Python,SQL",2001,50 - 200 employees,Data Engineer 
+147,Cargill,Kochi,3-7 Years,Aakanshu Gupta,"Corporate Sales,Distribution,Lead Generation,Sales",1900,More than 1000 employees,Sales Executive - General Trade  
+148,DAZN,Hyderabad,5-10 Years,Vidya Vm,"SQL,Google Analytics,Looker,ETL,Power BI",2007,More than 1000 employees,Data Analyst 
+149,Treebo,"Chandigarh, Gandhinagar, Indore",2-6 Years,Advita Karkera,"Business Development,Channel Sales,Corporate Sales,Direct Sales,Sales",2015,200 - 500 employees,Territory Sales Manager 
+150,Zepto,Bangalore,4-7 Years,Nikita Rai,"React Native,React.js,JavaScript,Android,iOS",2021,More than 1000 employees,Senior Software Engineer 
+151,The Famous,Bangalore,5-10 Years,Selvakumar S,"C#,C++,Jira,Agile,.NET",2021,0 - 10 employees,Senior Software Developer 
+152,BillDesk,Mumbai,10-15 Years,Uneza Khan,"Java,Architecture,SOAP,UML,Spring Boot",2000,500 - 1000 employees,Backend Architect 
+153,Google,"Bangalore, Hyderabad",10-14 Years,Aneesh Vikram,"Python,SQL,Tableau",1998,More than 1000 employees,Program Manager 
+154,Hectar India Trading,Chennai,3-6 Years,Kalpana Gaur,"JavaScript,Ruby,Angular,React.js",2021,10 - 50 employees,Head of Engineering 
+155,LTIMindtree,"Bangalore, Chennai, Mumbai",5-6 Years,Akshata,"Databricks,Hadoop,Spark,ETL,PySpark,Snowflake",1996,More than 1000 employees,Azure Databricks Developer  
+156,Twenty Point Nine Five Ventures,Noida,2-5 Years,Chandramouli Careersahead,"Java,Python,Golang,AWS",2022,10 - 50 employees,Software Development Engineer 
+157,BetterPlace,Bangalore,4-8 Years,Nikita Sah,"Java,Spring Boot,AWS,Microservices,Kafka",2015,500 - 1000 employees,SDE 3 
+158,Neeman's,Hyderabad,4-9 Years,Raman K,"Warehouse Operations,Inventory Management,Retail Operations",2018,10 - 50 employees,Warehouse Manager - Retails 
+159,Thence,Work From Home,3-7 Years,Raji L,"Business Development,Corporate Sales,International Sales,Key Account Management,LinkedIn Sales Navigator,Telecalling",2012,50 - 200 employees,Business Development Associate 
+160,AHAsolar,Ahmedabad,2-5 Years,Kanchan Pawar,".NET,ASP.NET,C#,SQL Server",2017,10 - 50 employees,.NET Developer 
+161,CashFlo,Bangalore,6-8 Years,Rahul Narula,"Product Management,Customer Service",2017,10 - 50 employees,Senior Product Manager 
+162,upGrad,Mumbai,2-3 Years,Abhishek Singh Bhadoria,"Channel Sales,Corporate Sales,Direct Sales,Key Account Management,Sales",2015,50 - 200 employees,Key Account Manager  
+163,LTIMindtree,Mumbai,3-6 Years,Akshata,"CSS,HTML,JavaScript,React.js,jQuery",1996,More than 1000 employees,React.js Developer  
+164,CashFlo,Bangalore,3-6 Years,Gangadhara Reddy,"Python,Node.js,CI - CD,AWS,Azure",2017,10 - 50 employees,"Backend, Node.js Python Developer "
+165,Reliance Jio,Bangalore,5-9 Years,Bhawana Singh,"Automation Testing,React.js,SDET",2016,500 - 1000 employees,Project Lead / Test Engineer 
+166,Squared Circle E-Com,Bangalore,8-10 Years,Ekta V,"Category Management,Catalog Management",2019,200 - 500 employees,Category Manager 
+167,Loop Kitchen,Work From Home,1-2 Years,Ravi Dubey,"Python,Data Structures,Algorithms",2022,0 - 10 employees,Backend Engineer 
+168,CashFlo,Mumbai,4-7 Years,Kapil Goyal,"Node.js,AWS,Kafka,Python,CI - CD",2017,10 - 50 employees,Software Engineering - Backend 
+169,Viacom18,Bangalore,8-13 Years,Archana Tr,"Java,Kotlin,Android,MVP,Architecture",2007,More than 1000 employees,Android Architect 
+170,Quotient Technology,Bangalore,5-10 Years,Shahida,"Java,Spring Boot,Microservices,MongoDB,AWS",1998,500 - 1000 employees,SSE Backend 
+171,Capri Global Capital,Gurgaon,7-9 Years,Rituraj Rai,"Python,Data Structures,Algorithms,SQL,React.js",1997,500 - 1000 employees,Senior Technical Lead Engineer 
+172,GlobalLogic,Bangalore,8-12 Years,Saritha,".NET,Microservices,Angular,Azure,ASP.NET",2000,More than 1000 employees,.NET Developer 
+173,Altimetrik,Work From Home,5-10 Years,Kusha Bedre,"ETL,AWS,PostgreSQL,Python,SQL",2012,More than 1000 employees,Data Engineer 
+174,Donyati,Work From Home,8-13 Years,Venkatesh Palani,"SAP FICO,IDOC,SAP HANA,SAP Fiori",2015,50 - 200 employees,SAP FICO + Tax Consultant 
+175,Thence,Work From Home,3-7 Years,Raji L,"Business Development,Corporate Sales,Key Account Management,Lead Generation,Telecalling",2012,50 - 200 employees,Business Development Associate  
+176,Volvo Martial Motors,Bangalore,3-8 Years,Fathima Zoya,"GST,TDS,Tally,Banking Operations,Microsoft Excel",2012,200 - 500 employees,Accounts Executive 
+177,Google,Hyderabad,5-9 Years,Aneesh Vikram,"Finance,Marketing,Microsoft Excel,Product Management,Sales,UI Testing,UX Design",1998,More than 1000 employees,Business Systems Analyst  
+178,LTIMindtree,Mumbai,3-6 Years,Akshata,".NET,ASP.NET,Angular,Azure,Bootstrap,C#,CSS,HTML",1996,More than 1000 employees,.NET Azure Fullstack Developer  
+179,Leena AI,Gurgaon,3-5 Years,Rekha Singh,"Automation Testing,Manual Testing",2015,200 - 500 employees,Quality Assurance Engineer 
+180,Nucleus Software,Noida,4-7 Years,Nikki Bhoj,"Python,ETL,Data Analysis",1986,More than 1000 employees,Python Developer 
+181,Treebo,"Kolkata, Mumbai",5-8 Years,Advita Karkera,"Business Development,Channel Sales,Profit and Loss Management,Strategic Planning",2015,200 - 500 employees,Regional Supply Head  
+182,Whatfix,"Bangalore, Gurgaon",6-10 Years,Sowmya Shivarama,"Corporate Sales,Farming,International Sales,Key Account Management",2013,200 - 500 employees,"Manager / Senior Manager / AD, Strategic Accounts  "
+183,LTIMindtree,Mumbai,4-6 Years,Akshata,"Ansible,Azure,Azure DevOps Server,CI - CD,DevOps,Kafka",1996,More than 1000 employees,Azure DevOps  
+184,Apexon,Coimbatore,1-3 Years,Kirthika T,"Power BI,SQL,MSBI,SSIS,DAX",1996,More than 1000 employees,Power BI MSBI SQL Developer 
+185,Colmore,Bangalore,2-4 Years,Karthik T,"Financial Analysis,Financial Reporting,Cash Flow Management,Accounting,Finance",2017,50 - 200 employees,Insight Analyst 
+186,3M,Bangalore,5-9 Years,Omkar Sonawane,Power BI,1902,More than 1000 employees,Senior Financial Business Analyst [T500 - 6950 
+187,Flatworld Solutions,Bangalore,2-7 Years,Ayushi Srivastava,"ASP.NET,Angular,.NET,C#,Entity Framework",2002,More than 1000 employees,Dotnet Developer 
+188,Refyne,Bangalore,4-7 Years,Swati Kapur,"Content Marketing,Content Writing,SEO,Social Media Marketing",2020,10 - 50 employees,Senior Content Marketer - B2C  
+189,Citrix,Bangalore,8-12 Years,Smrudhi Gauns,"C,Networking",1989,More than 1000 employees,Principle Software Engineer 
+190,Advanced Business and Healthcare India,Bangalore,9-14 Years,Divya Sharma,".NET,Angular,C#,AWS,JavaScript",2010,More than 1000 employees,Principal Software Engineer 
+191,Angel One,"Bangalore, Work From Home",1-5 Years,Ananda Pandey,"CSS,HTML,JavaScript,React.js,Vue.js",1987,More than 1000 employees,Frontend Engineet - SDE1 / SDE2 
+192,Bidgely,Bangalore,2-6 Years,Shamim Siddiqui,"Machine Learning,Neural Networks,Python,Linear Regression,Predictive Modelling",2010,200 - 500 employees,Senior Data Scientist 
+193,Advanced Business and Healthcare India,Bangalore,9-14 Years,Divya Sharma,"Java,Microservices,Spring Boot,Architecture,AWS",2010,More than 1000 employees,Principal Software Engineer 
+194,O4S,Gurgaon,1-5 Years,Krishibha Sharma,"Corporate Sales,Key Account Management,Lead Generation,LinkedIn Sales Navigator",2016,50 - 200 employees,Associate - Sales Representative / Inside Sales  
+195,MediBuddy,Bangalore,5-7 Years,Sindhuja,"React.js,Angular",2013,More than 1000 employees,Software Developer 
+196,Cargill,"Chennai, Hyderabad, Vijayawada",3-7 Years,Aakanshu Gupta,"Corporate Sales,Distribution,Lead Generation,Sales",1900,More than 1000 employees,Sales Executive - Modern Trade  
+197,TrekNomads,Bangalore,1-4 Years,Talent Acquisition Team,"Sales,Travel Planning,Telecalling,Business Development,Travel Management",2016,0 - 10 employees,Business Development Executive 
+198,VMware,Bangalore,6-10 Years,Amit Kumar,"CSS,HTML,JavaScript,Angular",1998,More than 1000 employees,Front End Developer - Angularjs 
+199,Swimlane,Hyderabad,10-12 Years,Lavanya R,"Python,Machine Learning,AWS,NLP,Data Analysis",2014,200 - 500 employees,Senior Data Scientist 
+200,Carelon Global Solutions,Hyderabad,5-8 Years,Nirosha Yalawar,"AWS,Git,Docker,Spring Boot,Maven",2017,More than 1000 employees,Full Stack Developer - Java 
+201,Arintra,Bangalore,5-8 Years,Ramya Tanya,"CI - CD,Jenkins,AWS,Python,Java",2020,10 - 50 employees,DevOps Engineer 
+202,Swimlane,Hyderabad,8-12 Years,Ramya Tanya,"Python,Django,Flask",2014,200 - 500 employees,Lead Developer 
+203,Altimetrik,Work From Home,5-8 Years,Kusha Bedre,"Linux,Unix,Windows,AWS,Google Cloud",2012,More than 1000 employees,Secops Manager 
+204,Owens & Minor,Work From Home,5-8 Years,Omkar Sonawane,".NET,React.js",1882,More than 1000 employees,Senior Fullstack Developer [T500 - 6970 
+205,ElectricPe,Bangalore,5-10 Years,Manish Nirwal,"Product Management,Project Management,Enterprise Software,Consumer Software,PMP",2021,10 - 50 employees,Product Manager 
+206,Quotient Technology,Bangalore,3-5 Years,Shahida,"Angular,JavaScript,HTML,Google Cloud,CSS",1998,500 - 1000 employees,SDE II Frontend 
+207,Capri Global Capital,Gurgaon,4-9 Years,Kanishta Kasturi,"Python,JavaScript,Java,React.js,Golang",1997,500 - 1000 employees,Software Engineer - Python 
+208,The Famous,Ahmedabad,3-5 Years,Dhara Raval,"PHP,Laravel,CodeIgniter",2021,0 - 10 employees,PHP Developer 
+209,Dunzo,Bangalore,4-8 Years,Niharika Sharma,"Product Management,Consumer Software,Product Lifecycle Management,Data Visualization",2014,200 - 500 employees,Product Manager 
+210,Meeraq,Bangalore,3-7 Years,Jai Prakash,"Digital Marketing,Social Media Marketing,Brand Management,SEO,Instagram Marketing",2022,10 - 50 employees,Digital Marketing Executive 
+211,Mystifly,Bangalore,5-10 Years,Akhila Hs,"SQL,Java,Python,C#,R",2009,200 - 500 employees,Lead Data Engineer 
+212,Treebo,"Bangalore, Gurgaon, Mumbai",2-6 Years,Advita Karkera,"Business Development,Channel Sales,Corporate Sales,Direct Sales,Sales",2015,200 - 500 employees,Territory Sales Manager 
+213,MediBuddy,Bangalore,1-5 Years,Sadhana,"Corporate Sales,Key Account Management,Lead Generation,LinkedIn Sales Navigator",2013,More than 1000 employees,Associate / Sr. Associate - Inside Sales  
+214,sentra.world,Bangalore,7-12 Years,Monika Srivastava,".NET,C#,Angular,Azure",2023,0 - 10 employees,VP Engineering 
+215,Hub,Gurgaon,10-15 Years,Roshan Muniraj,"Java,Spring,Microservices,AWS,AWS Lambda",2021,50 - 200 employees,Tech Lead Engineer 
+216,Volvo Martial Motors,Bangalore,3-6 Years,Fathima Zoya,"Business Development,Marketing,Customer Interaction,Sales Operations,Microsoft Excel",2012,200 - 500 employees,Sales Consultant 
+217,KSBM Infotech,Noida,1-5 Years,Balvinder Singh,"Business Development,Direct Sales,Sales",2013,50 - 200 employees,Business Development Executive 
+218,GetVantage,Mumbai,4-8 Years,Basif Akram,"Angular,Node.js,MongoDB,Express.js,SQL Server",2019,10 - 50 employees,Full Stack Developer - MEAN 
+219,Rubrik,Work From Home,13-17 Years,Balaji Sundaravadivel,"MongoDB,MySQL,Oracle Database,PostgreSQL,SAP HANA,SQL Server,Oracle Data Guard,Oracle Data Pump,Oracle GoldenGate,Oracle RAC",2015,500 - 1000 employees,Technical Product Manager 
+220,Brandtorch,Mumbai,0-2 Years,Neha Bowlekar,"Content Marketing,Facebook Marketing,Social Media Marketing",2019,10 - 50 employees,Social Media Marketing Executive 
+221,Integral Technologies,Work From Home,5-8 Years,Nitesh Rana,"Python,Django,Flask",2022,0 - 10 employees,Backend Lead / Founding Engineer 
+222,GoKwik,Work From Home,5-9 Years,Chandrima Sarma,"Corporate Events,Cultural Events,Event Management,Event Marketing,Event Planning",2020,50 - 200 employees,Event Manager  
+223,Swimlane,Hyderabad,4-8 Years,Ramya Tanya,"Python,Django,Flask",2014,200 - 500 employees,SSE 
+224,Zoomcar,Bangalore,2-6 Years,Bharath Br,"Performance Marketing,SEM,SEO,Social Media Marketing",2012,200 - 500 employees,Deputy Manager - Performance Marketing  
+225,PACE Group Of Companies,Delhi,5-10 Years,Aarthi P,"Digital Marketing,Social Media Marketing,Content Marketing,Marketing",1995,500 - 1000 employees,Senior Digital Marketing Manager / Head of Marketing 
+226,Zepto,Bangalore,2-5 Years,Priyanka Mahindrakar,"React Native,React.js,JavaScript,HTML,CSS",2021,More than 1000 employees,Software Engineer - Frontend 
+227,Dunzo,Mumbai,1-2 Years,Shreya Shandilya,"Field Work,Lead Generation,Sales",2014,200 - 500 employees,Associate Sales 
+228,HDFC Life,"Bangalore, Mumbai",5-6 Years,Hr,"AWS,CI - CD,Cloud Computing,DevOps,Linux",2000,More than 1000 employees,ASW Cloud Security Manager  
+229,BYJU'S,Bangalore,3-5 Years,Muskan Grover,"JavaScript,Python,Angular,Node.js,React.js",2011,More than 1000 employees,Full Stack Developer 
+230,GlobalLogic,Bangalore,3-8 Years,Priyanka Paul,Kubernetes,2000,More than 1000 employees,SRE - TKG 
+231,Hy-Vee,Bangalore,8-12 Years,Samiya Shaik,"Product Management,Project Management,Google Analytics,Agile",1930,More than 1000 employees,Product Owner - Retail Apps 
+232,Jodo,Bangalore,3-6 Years,Seemi Ejaz,"Python,Django,SQL,React Native,AWS",2020,10 - 50 employees,Senior Backend Engineer 
+233,upGrad,"Bangalore, Hyderabad, Noida",1-4 Years,Abhishek Singh Bhadoria,"Business Development,Corporate Sales,Sales",2015,50 - 200 employees,Admission Counsellor Study Abroad  
+234,LeadSquared,Bangalore,7-12 Years,Sandhiya S,"Java,Microservices,AWS,Spring Boot,Engineering Management",2012,200 - 500 employees,Engineering Manager 
+235,interface.ai,Work From Home,2-4 Years,Simran Khanna,Node.js,2019,50 - 200 employees,Software Engineer II 
+236,Hugosave,Hyderabad,7-10 Years,Neha Khaitan,"Postman,Swagger,Technical Writing",2019,10 - 50 employees,Technical Writer  
+237,Delta,Bangalore,3-6 Years,Megha Dave,"Java,AWS,DevOps,Git,Jenkins",2017,0 - 10 employees,Senior DevOps Engineer 
+238,Eight Network,Bangalore,2-4 Years,Ashwin N,Kotlin,2021,0 - 10 employees,Android Developer 
+239,Emporiom Digital,Noida,2-7 Years,Madhulika Khatri,"Motion Graphics,Visual Design,Visual Effects,Cinema 4D,Final Cut Pro",2014,10 - 50 employees,Senior Visualizer 
+240,CashFlo,Bangalore,6-8 Years,Gangadhara Reddy,"Product Management,Payment Processing,Business Analysis,Product Lifecycle Management,Product Marketing",2017,10 - 50 employees,Senior Product Manager 
+241,LTIMindtree,"Bangalore, Chennai, Mumbai",5-6 Years,Akshata,"BigQuery,Google Cloud,Python,Dataflow",1996,More than 1000 employees,GCP Developer  
+242,RingCentral,Bangalore,4-8 Years,Pallavi Padhy,"Anaplan,Architecture,FPA,Finance,L1 Support,L2 Support,SQL,Solution Architecture,Stakeholder Management",2003,More than 1000 employees,Anaplan Analyst / Manager  
+243,Refyne,Bangalore,0-1 Years,Swati Kapur,"Customer Service,KYC",2020,10 - 50 employees,Customer Support Executive - KYC Specialist  
+244,Swimlane,Hyderabad,4-8 Years,Safafirdos Shaikh,"Python,Django,Flask,Data Structures,AWS",2014,200 - 500 employees,Python Developer 
+245,Deloitte,Work From Home,3-8 Years,Ghowsalya B,".NET,JavaScript,jQuery,React.js,C#",1845,More than 1000 employees,.NET Developer 
+246,Playtoome,Kolkata,3-8 Years,Nisha Sharma,"Python,Java,JavaScript,Node.js,React.js",2016,10 - 50 employees,Software Engineer 2 
+247,Intellect Design Arena,Work From Home,3-7 Years,Sridevi Viswanathan,"Python,Machine Learning,NLP",2014,More than 1000 employees,Data Scientists 
+248,Allen Career Institute,Bangalore,5-8 Years,Archana Tr,"Java,Spring,MongoDB,Python,Golang",1988,More than 1000 employees,Software Engineer 
+249,3M,Bangalore,5-9 Years,Omkar Sonawane,Power BI,1902,More than 1000 employees,Senior Financial Business Analyst [T500 - 6951 
+250,Google,"Bangalore, Hyderabad",6-10 Years,Hari Hara Eshwaran S,"API Testing,Angular,Database Development,Distributed Systems,Java,NoSQL,RDBMS,React.js,TypeScript",1998,More than 1000 employees,Senior Software Engineer - Full Stack  
+251,Zenda,"Mumbai, Pune",3-7 Years,Meenal Sharma,"Business Development,Channel Sales,Direct Sales,Sales",2021,10 - 50 employees,Territory Sales Manager  
+252,Gumlet,Work From Home,1-4 Years,Anusha J,"Customer Interaction,Engineering Management,HTML,CSS",2019,10 - 50 employees,Customer Integration Engineer 
+253,CashFlo,Bangalore,5-9 Years,Ravi Dubey,Product Management,2017,10 - 50 employees,Senior Product Manager - Fintech 
+254,Nab,Gurgaon,20-25 Years,Kavya Shegde,"Risk Assessment,Risk Management,Risk Advisory",1981,More than 1000 employees,Manager II - Third Party Assessments 
+255,Clear,Bangalore,14-19 Years,Shoyeeb Ahamed Magami,"Java,Engineering Management,Python,JavaScript,Algorithms",2011,More than 1000 employees,Vice President of Engineering 
+256,CashFlo,Bangalore,5-10 Years,Manzar Imam,Product Management,2017,10 - 50 employees,Senior Product Manager 
+257,Univariety,Hyderabad,1-5 Years,Sunitha Mudiraj,"Business Development,Corporate Sales,Direct Sales,International Sales,Sales,Telecalling",2011,50 - 200 employees,Assistant Manager - B2C Inside Sales  
+258,Zenda,"Bangalore, Delhi",2-5 Years,Meenal Sharma,"Back Office Operations,Bill Processing,Employee Induction,Google Workspace,Human Capital Management,Inventory Management,Microsoft Excel,Office Operations,Policy Formulation,Procurement,Vendor Management",2021,10 - 50 employees,Office Operations  
+259,LTIMindtree,"Bangalore, Chennai, Mumbai",5-6 Years,Akshata,"Amazon Redshift,Big Data,Data Analysis,Data Warehousing,ETL,Java,Spark",1996,More than 1000 employees,Big Data - Java Spark Developer  
+260,UnionSys Technologies,Pune,5-10 Years,Harish Chandra,"Oracle Fusion Applications,Oracle Financials,Oracle Cloud,Oracle Agile PLM,Coupa",2008,50 - 200 employees,Functional Consultant 
+261,Mensa Brands,Bangalore,8-13 Years,Manjit Kaur,"Sales,Business Development",2017,10 - 50 employees,Regional Sales Manager 
+262,GlobalLogic,Bangalore,8-12 Years,Saritha,".NET,Angular,ASP.NET,Azure,Microservices",2000,More than 1000 employees,.NET Full Stack Lead / Architect 
+263,Lumen Technologies,Bangalore,4-9 Years,Ayushi Srivastava,"Salesforce,Apex,Visualforce,Salesforce Data Loader",1968,More than 1000 employees,Salesforce Developer 
+264,Mensa Brands,Bangalore,2-5 Years,Manjit Kaur,"Java,SQL,Data Structures,NoSQL,Microservices",2017,10 - 50 employees,Backend Developer - Java 
+265,Owens & Minor,Work From Home,7-10 Years,Omkar Sonawane,Palo Alto,1882,More than 1000 employees,Senior Cybersecurity Engineer [T500 - 6926 
+266,Owens & Minor,Work From Home,4-6 Years,Omkar Sonawane,CrowdStrike,1882,More than 1000 employees,Cybersecurity Engineer [Tt500 - 6862 
+267,Quantum,Work From Home,5-6 Years,Tejashree L,"Linux,Networking,Technical Support,Virtualization,Windows,Hyper-V,VMware ESX,VMware vSphere",1995,500 - 1000 employees,Software Technical Support Engineer 
+268,Infosys BPM,Hyderabad,4-9 Years,Monica Shiney Jeyam,"Microservices,Angular",2002,More than 1000 employees,Full Stack Java Developer 
+269,Sundial,Bangalore,1-6 Years,Manish Nirwal,"DevOps,AWS,Cloud Computing,Kubernetes,Deployment",2020,10 - 50 employees,DevOps Cloud Engineer 
+270,Tranzact,Mumbai,2-5 Years,Mukti Shetty,"Customer Interaction,Customer Service,Freshdesk,Microsoft Excel,Zendesk",2017,10 - 50 employees,Customer Delight  
+271,Lumen Technologies,Bangalore,5-5 Years,Navya C M,"Salesforce,Visualforce",1968,More than 1000 employees,Salesforce Administartor 
+272,Sundial,Bangalore,6-11 Years,Manish Nirwal,"Deployment,DevOps,AWS,Kubernetes,Cloud Computing",2020,10 - 50 employees,DevOps Cloud Engineer 
+273,Bizongo,Mumbai,3-8 Years,Swapnil Nautiyal,"Corporate Sales,NBFC,Lead Generation,Business Development,Key Account Management",2014,200 - 500 employees,Sales Specialist 
+274,Quotient Technology,Bangalore,5-9 Years,Shahida,"Angular,JavaScript,HTML,CSS,Google Cloud",1998,500 - 1000 employees,SSE - Frontend 
+275,Brilliance,Work From Home,2-7 Years,Kusha Bedre,"Brand Management,Digital Marketing,Social Media Marketing,Facebook Marketing,Marketing Communication",2019,10 - 50 employees,Assistant Brand Manager 
+276,VMware,Bangalore,5-9 Years,Ankita Das Sheherhers,"Golang,Python",1998,More than 1000 employees,Senior / Member of Technical Staff 
+277,Treebo,"Jamshedpur, Kolkata, Ranchi",2-6 Years,Advita Karkera,"Business Development,Corporate Sales,Direct Sales,Sales",2015,200 - 500 employees,Territory Sales Manager 
+278,CloudBloom,Bangalore,2-6 Years,Aishwarya Rana,"Angular,C++,Java,JavaScript,Node.js,React.js,jQuery",2017,50 - 200 employees,Software Developer 
+279,Nirvana Insurance,Bangalore,6-10 Years,Akriti Singh,"Java,C++,Golang,Scala",2021,10 - 50 employees,Tech Lead Manager 
+280,Hewlett Packard Enterprise (HPE),Mumbai,12-15 Years,Navya C M,SAP ERP,2015,More than 1000 employees,Program Manager - Data Management 
+281,Freeskout,Delhi,0-3 Years,Virtika Sehgal,"Business Development,Direct Sales,Sales,Telecalling",2020,200 - 500 employees,Business Development Associate 
+282,OneCode.in,Bangalore,6-10 Years,Rinsy Backer,Instructional Design,2019,50 - 200 employees,Training Manager  
+283,Nab,Gurgaon,15-18 Years,Supriya K,"Financial Planning,Budgeting,Risk Management,Compliance Management",1981,More than 1000 employees,Senior VP - Indian Operation 
+284,IDP Education,Mumbai,3-8 Years,Priyanka Patra,"Education Counselling,Sales",1969,More than 1000 employees,Education Counsellor - B2C Sales 
+285,Evolving Systems,Work From Home,10-15 Years,Sudhan K N R,"Java,J2EE,Spring Boot,Microservices",1985,200 - 500 employees,Senior Java Developer 
+286,Neuralgo,Coimbatore,10-14 Years,Jothi Balagan,"Machine Learning,NLP,Data Collection",2023,0 - 10 employees,Senior ML Architect 
+287,Level AI,Work From Home,3-6 Years,Venkatesh Tangirala,Bash,2018,10 - 50 employees,Site Reliability Engineer 
+288,Delta,Bangalore,7-11 Years,Avinash Ks,"Java,Spring Boot,AWS,Microservices",2017,0 - 10 employees,Lead Developer - API 
+289,Nov,Mumbai,2-6 Years,Kavya Shegde,"Asset Management,PowerShell",1841,More than 1000 employees,Engineering Help Desk Technician 
+290,LTIMindtree,Mumbai,3-5 Years,Akshata,"Automation Testing,QTP",1996,More than 1000 employees,Oracle - UFT Testing  
+291,Lumen Technologies,Bangalore,8-11 Years,Ayushi Srivastava,"ServiceNow,Workflow Management",1968,More than 1000 employees,ServiceNow Developer 
+292,Carelon Global Solutions,Bangalore,4-8 Years,Kavya Dodda,"JavaScript,Microservices,Spring Boot,AWS,Python",2017,More than 1000 employees,Full Stack Developers - Java 
+293,LTIMindtree,"Bangalore, Chennai, Mumbai",5-6 Years,Akshata,"Data Warehousing,ETL,SQL,Snowflake",1996,More than 1000 employees,Snowflake Developer  
+294,EagleView,Work From Home,3-6 Years,Laks,"Accounting,Auditing,Chartered Accountant,Direct Taxation,Financial Analysis,GST,Income Tax,Indirect Taxation,NetSuite,SEZ,STPI,TDS,Taxation",2008,0 - 10 employees,Senior Financial Accountant  
+295,Zoomcar,Bangalore,3-6 Years,Bharath Br,"Content Marketing,Content Writing,English Content",2012,200 - 500 employees,Content Writer  
+296,Tranzact,Mumbai,2-5 Years,Mukti Shetty,"Customer Interaction,Customer Relationship,Escalation Management,Google Data Studio,Microsoft Excel,SQL",2017,10 - 50 employees,Customer Success Manager  
+297,Jalan Technologies,Work From Home,2-5 Years,Sneha Suresh,"Google Ads,SEM,SEO",2016,10 - 50 employees,SEO Specialist  
+298,SDLC Corp,Noida,0-1 Years,Atharv Trivedi,"Business Development,Corporate Sales,International Sales,Sales",2015,50 - 200 employees,Business Development Executive 
