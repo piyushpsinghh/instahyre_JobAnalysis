@@ -1,7 +1,11 @@
+-- creating database instahyre
 create database instahyre;
 use instahyre;
+
 SELECT CURRENT_USER();
 DROP TABLE Company;
+
+--create table Company
 CREATE TABLE Company(
   CompanyID varchar(20) primary key,
   Name VARCHAR(1000),
@@ -12,6 +16,8 @@ ALTER TABLE Company
 MODIFY Employees_Count INTEGER;
 
 DROP TABLE Details;
+
+-- create Details table
 CREATE TABLE Details(
   DetailsID varchar(20)  primary key,
   Involvement VARCHAR(100) DEFAULT 'Full-time',
@@ -22,6 +28,8 @@ CREATE TABLE Details(
 );
 
 DROP TABLE Jobs;
+
+-- create Jobs table
 CREATE TABLE Jobs
 (
   Job_Id varchar(20) primary key,
@@ -34,6 +42,8 @@ CREATE TABLE Jobs
 );
 
 DROP TABLE COM_LOC;
+
+-- create COM_LOC table
 CREATE TABLE COM_LOC(
   ID int AUTO_INCREMENT Primary Key, 
   Company_ID VARCHAR(100),
@@ -42,6 +52,7 @@ CREATE TABLE COM_LOC(
 );
 
 DROP TABLE DEL_SKILLS;
+-- create DEL_SKILLS table
 CREATE TABLE DEL_SKILLS(
   ID int auto_increment PRIMARY KEY,
   Details_ID VARCHAR(100),
@@ -53,7 +64,7 @@ CREATE TABLE Standard_Designation
    Role VARCHAR(255) PRIMARY KEY,
    Standard_Role VARCHAR(255)
 );
-
+ -- creating view
 CREATE VIEW LocationVSOpening AS 
 Select TRIM(CL.Location) as Location,COUNT(Job_ID) as Opening
 FROM COM_LOC CL JOIN Company C ON CL.Company_ID=C.CompanyID JOIN Jobs J on J.Company_ID=C.CompanyID
@@ -61,7 +72,7 @@ group by TRIM(Location);
 
 
 DROP VIEW IF EXISTS ALL_Details;
-
+ -- creating view
 CREATE VIEW All_Details as 
 Select C.CompanyID,C.Name,estab_year,Employees_Count,J.Job_ID,TRIM(CL.Location) as Location ,hrName,Yr_exper,Standard_Experience,DS.Details_ID,DS.Skills,SD.Role,SD.Standard_Role
 FROM Company C JOin COM_LOC CL on C.CompanyID=CL.Company_ID JOIN Jobs J on J.Company_id=C.CompanyID 
