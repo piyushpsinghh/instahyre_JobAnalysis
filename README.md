@@ -15,12 +15,11 @@
 | Files| Description |
 | ------------- | ------------- |
 | **FinalDashBoard.xlsx** | This file contains the Excel worksheets and dashboard of the insights. |
-| **WebScrapping.ipynb** | This file contains the ipynb code of the Web scrapping part. |
-| **Data Cleaning .ipynb** | This file contains the ipynb code of the data cleaning part. |
-| **Schema_Queries.sql**  | This file provides SQL queries of the aggregation of the data   |
+| **Codes** | This folder contains the ipynb code of the Web scrapping part. |
+| **Database**  | This folder conatins the  SQL queries of the aggregation of the data   |
 | **Job_analysis.pptx**  | This file provides the powerpoint presentation which contains all the major insights and conclusions.  |
-| **DATATA.xlsx**  | This file provides the raw data for analysis .  |
-| **COMPANY2.csv, Comp_Loc.csv, Det_Skills.csv, Details1.csv, JOBS2.csv, Role_Designation.csv**  | These files contain the final data drawn out after the data cleaning.  |
+| **Datasets**  | These files contain the raw data & final data drawn out after the data cleaning.  |
+
 <br>
 
 
@@ -122,17 +121,4 @@ o Data Scraping : Need to learn web scraping for this purpose explore python lib
 
    # <img src="https://user-images.githubusercontent.com/108053296/185756908-fbb62168-d923-48f2-992f-b8e2fde848fe.gif" width="48" height="48" > Conclusion
    
-   this project successfully achieved its objectives of analyzing job openings on InstaHyre.com. By employing a combination of web scraping, data cleaning, SQL aggregation, and Excel visualization, we gained insights into job accessibility and tailored recommendations for individuals based on their preferences. The project shed light on job availability across various locations, profiles, fields, and experience levels. The collaborative effort, completed within 7 days with the guidance of Mr. Sushant Ranjan from Masai School, showcases the effectiveness of multidisciplinary tools and techniques in deriving valuable insights from raw data. This analysis stands as a testament to the potential of data-driven decision-making in optimizing job searches and career pathways.
-
-![image](https://user-images.githubusercontent.com/108053296/189940016-b2f9ffd2-ff3c-46a7-90a0-ac2929953469.png)
-
-   
- 
-
-<!--  # <img src=https://user-images.githubusercontent.com/106439762/178809088-a2d780ad-94f5-4a58-9203-7716d4b2cbf4.gif width="48" height="48"> About Me
-I'm an aspiring data analyst...
-
-
-#  <img src=https://user-images.githubusercontent.com/106439762/178810087-8f7f8272-0cb8-40cb-a14c-be475569cf7d.gif width="48" height="48"> Links
-
-<a href="https://www.linkedin.com/in/yash-upadhyay-9b642a254/" ><img src="https://user-images.githubusercontent.com/106439762/182037233-49248ea9-c7a4-4f55-9fe4-5fe24e5ef160.png" width="48" height="48"> 
+   This project successfully achieved its objectives of analyzing job openings on InstaHyre.com. By employing a combination of web scraping, data cleaning, SQL aggregation, and Excel visualization, we gained insights into job accessibility and tailored recommendations for individuals based on their preferences. The project shed light on job availability across various locations, profiles, fields, and experience levels. The collaborative effort, completed within 7 days with the guidance of Mr. Sushant Ranjan from Masai School, showcases the effectiveness of multidisciplinary tools and techniques in deriving valuable insights from raw data. This analysis stands as a testament to the potential of data-driven decision-making in optimizing job searches and career pathways.
