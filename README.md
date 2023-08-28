@@ -78,7 +78,8 @@
 
 <br>
 
-# <img src="https://user-images.githubusercontent.com/108053296/185756908-fbb62168-d923-48f2-992f-b8e2fde848fe.gif" width="48" height="48" > Insights
+
+# <img src="https://user-images.githubusercontent.com/106439762/181937125-2a4b22a3-f8a9-4226-bbd3-df972f9dbbc4.gif" width="48" height="48" >Insights
    
    1. The companies with Employee size of above 1000 employees and above 50 (under 200) employees have the highest number of Job openings, whereas companies having less than 10 employees have least number of job openings. 
    
@@ -94,9 +95,16 @@
    
    7. LTI Mindtree, CashFlo and Google in the companies have highest number of job openings, indicating that the Tech and the Finance sectors, escpecially the large companies in them are creating the highest number of employment in India.
    <br>
+
+
+# <img src="https://user-images.githubusercontent.com/106439762/181937125-2a4b22a3-f8a9-4226-bbd3-df972f9dbbc4.gif" width="48" height="48" > Challenges Faced
+
+o Coordination & Time Management : Not discuss about the  problem in the starting directly jump into the technical part due to which alot of time has been wasted 
+
+o Data Scraping : Need to learn web scraping for this purpose explore python library such as Beautiful Soup, Selenium
+ <br>
    
-   
-   #  <img src=https://user-images.githubusercontent.com/106439762/178803205-47a08ce7-2187-4f96-b301-a2b68690619a.gif width="48" height="48" > Future Scope
+   # <img src="https://user-images.githubusercontent.com/106439762/181937125-2a4b22a3-f8a9-4226-bbd3-df972f9dbbc4.gif" width="48" height="48" > Future Scope
    
    <B> The aim of the Project is to: </B>
    
@@ -111,10 +119,10 @@
    5. Helping the new Generation to plan their future with the information like most in demand skills, locations with highest number of job openings, most in demand job profiles etc.
    
    6. Empowerment of common people with the relevant information that can help them to secure employment, reduce the accessability gap between the companies and the job seekers and aid to the raising employment rate of the country.
+
+   # <img src="https://user-images.githubusercontent.com/108053296/185756908-fbb62168-d923-48f2-992f-b8e2fde848fe.gif" width="48" height="48" > Conclusion
    
-   
-   
-    
+   this project successfully achieved its objectives of analyzing job openings on InstaHyre.com. By employing a combination of web scraping, data cleaning, SQL aggregation, and Excel visualization, we gained insights into job accessibility and tailored recommendations for individuals based on their preferences. The project shed light on job availability across various locations, profiles, fields, and experience levels. The collaborative effort, completed within 7 days with the guidance of Mr. Sushant Ranjan from Masai School, showcases the effectiveness of multidisciplinary tools and techniques in deriving valuable insights from raw data. This analysis stands as a testament to the potential of data-driven decision-making in optimizing job searches and career pathways.
 
 ![image](https://user-images.githubusercontent.com/108053296/189940016-b2f9ffd2-ff3c-46a7-90a0-ac2929953469.png)
 
