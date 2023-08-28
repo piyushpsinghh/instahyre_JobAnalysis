@@ -15,7 +15,7 @@
 | Files| Description |
 | ------------- | ------------- |
 | **FinalDashBoard.xlsx** | This file contains the Excel worksheets and dashboard of the insights. |
-| **Codes** | This folder contains the ipynb code of the Web scrapping part. |
+| **Web_Scraping.ipynb** | This file contains the code of the Web scrapping part. |
 | **Database**  | This folder conatins the  SQL queries of the aggregation of the data   |
 | **Job_analysis.pptx**  | This file provides the powerpoint presentation which contains all the major insights and conclusions.  |
 | **Datasets**  | These files contain the raw data & final data drawn out after the data cleaning.  |
